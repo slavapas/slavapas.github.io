@@ -1,4 +1,3 @@
-
 var map = L.map('mapid').setView([49.586956, 34.552131], 18);
 
 // GrayScale map
@@ -96,9 +95,10 @@ L.polygon(latlngs6, {
 
 
 
-///////////////////////////////////////////////////////////////////////
-// --------- additoinal  which is located on the right side of the window ------------- //
-// add LEAFLET-GEOMAN  Plugin controls with some options to the map
+///-------------------------------------------------------------
+// --------- additional -  which is located on the right side of the window ------------- //
+// --------add LEAFLET-GEOMAN  Plugin controls with some options to the map
+///-------------------------------------------------------------
 map.pm.addControls({
     position: 'topright',
     drawCircle: false,
@@ -138,7 +138,7 @@ L.geoJSON(servants, {
             'Восточное': 'black',
 
         }
-        
+
 
         return L.circleMarker(latlng, {
             radius: 7,
@@ -181,24 +181,23 @@ $(document).ready(function () {
 });
 
 
-// --------------------------------------------
+// ------------------------------------------------------------------------------------------------------------------
 // ------------    code from YouTube - Leaflet. Взаимосвязь карты с элементами DOM --------------
-// --------------------------------------------
+// ------------------------------------------------------------------------------------------------------------------
 var divMain = document.getElementById('myTable-thead');
-// console.log('divMain',divMain);
+// console.log(divMain);
 
 var tbody = document.createElement("tbody");
 tbody.setAttribute("id", "myTbody");
 divMain.after(tbody);
 
-// add tHeader
+//// add tHeader
 // var tbody = document.createElement('thead');
 // thead.innerHTML = 'Header';
 
-// var symb = " - ";
+
 // build table
 var data = [];
-var markers = [];
 
 wcp.features.map((feature, index) => {
     data.push(feature.properties.name);
@@ -232,47 +231,52 @@ wcp.features.map((feature, index) => {
     col1.appendChild(refCell);
     // col1.appendChild();
     col2.appendChild(itemCell);
-    
-    row.setAttribute("id",index);
+
+    row.setAttribute("id", index);
     //console.log(index);
 
 
 
-    //-----------------------
-    //---------- ON.CLICK -------------
-    //-----------------------
+    //---------------------------------------------------------------
+    //---------- react the ROW when the mouse CLICK on it  -------------
+    //---------------------------------------------------------------
     // row.style.backgroundColor = "red";
+
+
     row.onclick = function (e) {
-    //     for (var i = 0; i < data.length; i++) {
-    //         var rowSel = document.getElementById(i);
-    //         console.log(rowSel);
-            
-    //       //  rowSel.style.backgroundColor = 'red';
-    //     }
-     //this.style.backgroundColor = "green";
+        //     for (var i = 0; i < data.length; i++) {
+        //         var rowSel = document.getElementById(i);
+        //         console.log(rowSel);            
+        //       //  rowSel.style.backgroundColor = 'red';
+        //     }
+        //this.style.backgroundColor = "green";
 
         rowIndex = this.getAttribute("id");
         //console.log(rowIndex);
         var theLat = latLong[1];
         var theLong = latLong[0];
-        //console.log(lat,long);
-        var valLatLong = new Array();
-        valLatLong = [theLat, theLong];
-        //console.log('var = ',valLatLong);
+        console.log(theLat);
+        console.log(theLong);
+        
+        var LatLong = [];
+        LatLong = [theLat,theLong];
+        //console.log('var = ',LatLong);
 
-        // var marker = L.marker(feature.geometry.coordinates.reverse());
-        // marker.bindPopup("<b>Номер: </b>" + feature.properties.id + "</br><b>Имя: </b> " + feature.properties.name + "</br><b>Адресс: </b>" + feature.properties.address + "</br><b>Город: </b>" + feature.properties.city + "</br><b>Собрание: </b>" + feature.properties.congregation + "</br><b>Телефон: </b>" + feature.properties.tel);
-        // marker.on('click', function(e){
-        //     //------------
-        // })
-        // markers.push(marker);
-        // var latlong1 = new L.LatLng(long, lat);
-        // map.panTo(latlong1);
-        map.setView([theLat,theLong], 18);
 
+
+        map.setView([theLat, theLong], 18);
+        //    L.popup([theLat,theLong]).addTo(map);
+        // map.addLayer(mymarker);
+        // mymarker.bindPopup('popupContent');
+
+
+
+        var popup = new L.Popup();
+        popup.setLatLng(LatLong);
+        popup.setContent('seme content');
+        map.openPopup(popup);
 
     }
 
 
 });
-
