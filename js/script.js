@@ -264,7 +264,7 @@ wcp.features.map((feature, index) => {
 
 
 
-        map.setView([theLat, theLong], 18);
+        map.setView([theLat, theLong], 15);
         //    L.popup([theLat,theLong]).addTo(map);
         // map.addLayer(mymarker);
         // mymarker.bindPopup('popupContent');
