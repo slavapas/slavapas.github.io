@@ -270,11 +270,16 @@ wcp.features.map((feature, index) => {
         // mymarker.bindPopup('popupContent');
 
 
-
+        // ----------------------------------------------------------------
+        // ---------  popup for marker when you click in the list----------
+        // ----------------------------------------------------------------
+        var popupContent = "<b>Номер: </b>" + feature.properties.id + "</br><b>Имя: </b> " + feature.properties.name + "</br><b>Адресс: </b>" + feature.properties.address + "</br><b>Город: </b>" + feature.properties.city + "</br><b>Собрание: </b>" + feature.properties.congregation + "</br><b>Телефон: </b>" + feature.properties.tel;
         var popup = new L.Popup();
         popup.setLatLng(LatLong);
-        popup.setContent('seme content');
+        popup.setContent(popupContent);
         map.openPopup(popup);
+
+        // ----------------------------------------------------------------
 
     }
 
