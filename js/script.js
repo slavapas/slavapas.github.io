@@ -1,4 +1,5 @@
-var map = L.map('mapid').setView([49.586956, 34.552131], 10);
+
+var map = L.map('mapid').setView([49.586956, 34.552131], 18);
 
 // GrayScale map
 var osmGray = L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
@@ -26,13 +27,11 @@ var OSMColored = L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x
 
 //add choose base Layer
 var baseMaps = {
-    COLOR : OSMColored,
-    GRAY : osmGray
+    COLOR: OSMColored,
+    GRAY: osmGray
 };
 
 L.control.layers(baseMaps, {}).addTo(map);
-
-
 //
 
 ///// add Polygon - all data are located in geojson.js file
@@ -103,7 +102,7 @@ L.polygon(latlngs6, {
 map.pm.addControls({
     position: 'topright',
     drawCircle: false,
-  });
+});
 
 
 
@@ -130,18 +129,19 @@ L.geoJSON(servants, {
 
     onEachFeature: styleGeoJson,
 
+
     pointToLayer: function (feature, latlng) {
         var colors = {
             'Браилки': 'green',
             'Центральное': 'blue',
             'Юровка': 'red',
             'Восточное': 'black',
-            
+
         }
-       
-       
+        
+
         return L.circleMarker(latlng, {
-            radius: 7,            
+            radius: 7,
             fillColor: colors[feature.properties.congregation],
             color: colors[feature.properties.congregation],
             weight: 1,
@@ -173,13 +173,13 @@ L.geoJSON(servants, {
 // --------------------------------------------
 // add slide panel legend
 //---------------------------------------------
-$(document).ready(function() {
-   // $(".form1").addClass("hide");
-    $("#formButton").click(function() {
-      $(".form1").toggle();
+$(document).ready(function () {
+    // $(".form1").addClass("hide");
+    $("#formButton").click(function () {
+        $(".form1").toggle();
     });
-  });
-  
+});
+
 
 // --------------------------------------------
 // ------------    code from YouTube - Leaflet. Взаимосвязь карты с элементами DOM --------------
@@ -197,12 +197,19 @@ divMain.after(tbody);
 
 // var symb = " - ";
 // build table
+var data = [];
+var markers = [];
 
-wcp.features.map((feature,index) => {
+wcp.features.map((feature, index) => {
+    data.push(feature.properties.name);
     //console.log(index);
-    index=index+1;    
+    index = index + 1;
     var name = feature.properties.name;
-    
+    var latLong = feature.geometry.coordinates;
+
+    //console.log(latLong);
+
+
     //console.log(feature.properties.name);
     row = document.createElement("tr");
     col1 = document.createElement("th");
@@ -211,22 +218,61 @@ wcp.features.map((feature,index) => {
     var itemCell = document.createElement("td");
 
     var ref = document.createTextNode(index);
-    console.log("ref-", ref);
-        
+    //console.log("ref-", ref);
+
     var item = document.createTextNode(name);
-    console.log("item-", item);
-    
-    tbody.appendChild(row);   
+    // console.log("item-", item);
+
+    tbody.appendChild(row);
     row.appendChild(col1);
     row.appendChild(col2);
     refCell.appendChild(ref);
-    itemCell.appendChild(item);         
-    
+    itemCell.appendChild(item);
+
     col1.appendChild(refCell);
     // col1.appendChild();
     col2.appendChild(itemCell);
     
-})
+    row.setAttribute("id",index);
+    //console.log(index);
 
 
-  
+
+    //-----------------------
+    //---------- ON.CLICK -------------
+    //-----------------------
+    // row.style.backgroundColor = "red";
+    row.onclick = function (e) {
+    //     for (var i = 0; i < data.length; i++) {
+    //         var rowSel = document.getElementById(i);
+    //         console.log(rowSel);
+            
+    //       //  rowSel.style.backgroundColor = 'red';
+    //     }
+     //this.style.backgroundColor = "green";
+
+        rowIndex = this.getAttribute("id");
+        //console.log(rowIndex);
+        var theLat = latLong[1];
+        var theLong = latLong[0];
+        //console.log(lat,long);
+        var valLatLong = new Array();
+        valLatLong = [theLat, theLong];
+        //console.log('var = ',valLatLong);
+
+        // var marker = L.marker(feature.geometry.coordinates.reverse());
+        // marker.bindPopup("<b>Номер: </b>" + feature.properties.id + "</br><b>Имя: </b> " + feature.properties.name + "</br><b>Адресс: </b>" + feature.properties.address + "</br><b>Город: </b>" + feature.properties.city + "</br><b>Собрание: </b>" + feature.properties.congregation + "</br><b>Телефон: </b>" + feature.properties.tel);
+        // marker.on('click', function(e){
+        //     //------------
+        // })
+        // markers.push(marker);
+        // var latlong1 = new L.LatLng(long, lat);
+        // map.panTo(latlong1);
+        map.setView([theLat,theLong], 18);
+
+
+    }
+
+
+});
+
