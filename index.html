@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+	<title>Quick Start - Leaflet</title>
+
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<!-- <link rel="shortcut icon" type="image/x-icon" href="docs/images/favicon.ico" /> -->
+	<link rel="stylesheet" href="css/font-awesome.min.css">
+	<link rel="stylesheet" href="css/leaflet.awesome-markers.css">
+	<!--this is new-->
+	<link rel="stylesheet" href="css/leaflet.css" />
+	<link rel="stylesheet" href="css/leaflet-geoman.css" />
+	<link rel="stylesheet" href="css/style.css" />
+	<link rel="stylesheet" href="css/leaflet-search.css" />
+	<script src="js/leaflet.js"></script>
+
+
+
+</head>
+
+<body>
+
+
+
+	<div id="mapid"></div>
+	<button type="button" id="formButton" class="leaflet-bar leaflet-draw-edit-edit">>></button>
+	<div class="panel form1">
+		<div id="pins">
+			<ul class="pins_color">Собрании
+				<hr>
+				<li class="pins_color__bra">Браилки</li>
+				<li class="pins_color__cent">Центральное</li>
+				<li class="pins_color__jur">Юровка</li>
+				<li class="pins_color__vost">Восточное</li>
+			</ul>
+		</div>
+	</div>
+	<div class="panel form1">
+		<div id="pins1">
+			<ul class="pins_color">Число служителей по зонам
+				<hr>
+				<li class="pins_color__zone">Зона 1 - 71</li>
+				<li class="pins_color__zone">Зона 2 - 40</li>
+				<li class="pins_color__zone">Зона 3 - 46</li>
+				<li class="pins_color__zone">Зона 4 - 18</li>
+				<li class="pins_color__zone">Зона 5 - 50</li>
+				<li class="pins_color__zone">Зона 6 - 29</li>
+				<li class="pins_color__zone">Зона 7 - 20</li>
+				<li class="pins_color__zone">Зона 8 - 6</li>
+			</ul>
+		</div>
+	</div>
+	<div id="main-table">
+		<table id="myTable">
+			<thead id="myTable-thead">
+				<tr id="myTable-thead_tr">
+					<th class="myTable-thead_tr__th">Nr</th>
+					<th class="myTable-thead_tr__th">Имя
+					</th>
+				</tr>
+			</thead>
+			<tbody id="myTbody">
+			</tbody>
+		</table>
+	</div>
+
+
+
+
+	<!-- add script files -->
+	<script src="js/jquery-3.5.1.min.js"></script>
+
+	<!-- json data alway should be bellow main leaflet.js file -->
+	<script src="js/geojson-data.js"></script>
+	<script src=""></script>
+	<script src="js/leaflet-search.js"></script>
+	<script src="js/leaflet-geoman.min.js"></script>
+
+
+	<script type="text/javascript" src="js/labs-common.js"></script>
+	<!-- this file has to be the last in the list -->
+	<script src="js/script.js"></script>
+
+
+</body>
+
+</html>
