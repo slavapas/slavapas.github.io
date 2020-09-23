@@ -272,7 +272,7 @@ wcp.features.map((feature, index) => {
 
 
 
-        map.flyTo([theLat, theLong], 18);
+        map.flyTo([theLat, theLong], 17);
 
 
         // ----------------------------------------------------------------
