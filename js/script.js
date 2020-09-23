@@ -272,10 +272,7 @@ wcp.features.map((feature, index) => {
 
 
 
-        map.flyTo([theLat, theLong], 15);
-        //    L.popup([theLat,theLong]).addTo(map);
-        // map.addLayer(mymarker);
-        // mymarker.bindPopup('popupContent');
+        map.flyTo([theLat, theLong], 18);
 
 
         // ----------------------------------------------------------------
