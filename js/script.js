@@ -111,7 +111,7 @@ map.pm.addControls({
 ///        insert main circleMarker                  ///
 /////-------------------------------------------------
 function styleGeoJson(feature, layer) {
-    var popupContent = "<b>Номер: </b>" + feature.properties.id + "</br><b>Имя: </b> " + feature.properties.name + "</br><b>Адресс: </b>" + feature.properties.address + "</br><b>Город: </b>" + feature.properties.city + "</br><b>Собрание: </b>" + feature.properties.congregation + "</br><b>Телефон: </b>" + feature.properties.tel;
+    var popupContent = "<b>Номер: </b>" + feature.properties.id + "</br><b>Имя: </b> " + feature.properties.name + "</br><b>Адресс: </b>" + feature.properties.address + "</br><b>Город: </b>" + feature.properties.city + "</br><b>Собрание: </b>" + feature.properties.congregation;
 
     if (feature.properties && feature.properties.popupContent) {
         popupContent += feature.properties.popupContent;
@@ -177,6 +177,14 @@ $(document).ready(function () {
     // $(".form1").addClass("hide");
     $("#formButton").click(function () {
         $(".form1").toggle();
+    });
+
+    // change row color when clicked
+    $("tr").click(function () {
+        $("tr").css("background", "initial"); // сброс цвета во всех ячейках
+        $(this).css("background", "#fb8686c9"); //добавим цвет к текущей
+
+
     });
 });
 
@@ -257,9 +265,9 @@ wcp.features.map((feature, index) => {
         var theLong = latLong[0];
         console.log(theLat);
         console.log(theLong);
-        
+
         var LatLong = [];
-        LatLong = [theLat,theLong];
+        LatLong = [theLat, theLong];
         //console.log('var = ',LatLong);
 
 
@@ -273,7 +281,7 @@ wcp.features.map((feature, index) => {
         // ----------------------------------------------------------------
         // ---------  popup for marker when you click in the list----------
         // ----------------------------------------------------------------
-        var popupContent = "<b>Номер: </b>" + feature.properties.id + "</br><b>Имя: </b> " + feature.properties.name + "</br><b>Адресс: </b>" + feature.properties.address + "</br><b>Город: </b>" + feature.properties.city + "</br><b>Собрание: </b>" + feature.properties.congregation + "</br><b>Телефон: </b>" + feature.properties.tel;
+        var popupContent = "<b>Номер: </b>" + feature.properties.id + "</br><b>Имя: </b> " + feature.properties.name + "</br><b>Адресс: </b>" + feature.properties.address + "</br><b>Город: </b>" + feature.properties.city + "</br><b>Собрание: </b>" + feature.properties.congregation;
         var popup = new L.Popup();
         popup.setLatLng(LatLong);
         popup.setContent(popupContent);
@@ -282,6 +290,7 @@ wcp.features.map((feature, index) => {
         // ----------------------------------------------------------------
 
     }
+
 
 
 });

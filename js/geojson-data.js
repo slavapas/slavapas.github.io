@@ -270,6 +270,25 @@ var servants = [{
         "type": "Feature",
         "properties": {
             "id": "7",
+            "name": "БРА - Белокур Лидия Ивановна",
+            "address": "ул. Софиевская 20",
+            "city": "пгт. Скороходово",
+            "region": "Полтавская Область",
+            "Index": "38813",
+            "geometry/coordinates/0": "49.772292",
+            "geometry/coordinates/1": "35.073273",
+            "congregation": "Браилки",
+            "marker-color": "blue",
+        },
+        "geometry": {
+            "coordinates": [35.073273, 49.772292],
+            "type": "Point"
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "id": "8",
             "name": "БРА - Берёзкина Светлана Евгеньевна",
             "address": "ул. Грабиновская 16а",
             "city": "Полтава",
@@ -288,7 +307,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "8",
+            "id": "9",
             "name": "БРА - Блюмкина Валентина Викторовна",
             "address": "ул. Ст. Кондратенка 5, кв. 8",
             "city": "Полтава",
@@ -307,7 +326,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "9",
+            "id": "10",
             "name": "БРА - Бояринова Леся  Васильевна",
             "address": "Бульвар  Нестерова  8/11 кв.1",
             "city": "Полтава",
@@ -327,7 +346,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "10",
+            "id": "11",
             "name": "БРА - Броварь Виталий Владимирович",
             "address": "ул. Ленина (Небесной Сотни) 85, кв. 20",
             "city": "Полтава",
@@ -347,7 +366,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "11",
+            "id": "12",
             "name": "БРА - Броварь Дмитрий Владимирович",
             "address": "ул. Гожулянская 12, кв. 40",
             "city": "Полтава",
@@ -366,7 +385,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "12",
+            "id": "13",
             "name": "БРА - Буряченко Лидия Сергеевна",
             "address": "ул. Баленка 18, кв. 2",
             "city": "Полтава",
@@ -385,7 +404,26 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "13",
+            "id": "14",
+            "name": "БРА - Быкова Елена Валериевна",
+            "address": "ул. Лесная 4",
+            "city": "с. Кочубеевка",
+            "region": "Полтавская Область",
+            "Index": "38822",
+            "geometry/coordinates/0": "49.752271",
+            "geometry/coordinates/1": "35.106533",
+            "congregation": "Браилки",
+            "marker-color": "blue",
+        },
+        "geometry": {
+            "coordinates": [35.106533, 49.752271],
+            "type": "Point"
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "id": "15",
             "name": "БРА - Веклич Татьяна ",
             "address": "ул.Репина,21 кв.10.",
             "city": "Полтава",
@@ -403,7 +441,26 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "14",
+            "id": "16",
+            "name": "БРА - Воробьева Екатерина Владимировна",
+            "address": "ул. Комсомольская",
+            "city": "с. Рябкивка",
+            "region": "Полтавская Область",
+            "Index": "38812",
+            "geometry/coordinates/0": "49.829162",
+            "geometry/coordinates/1": "35.053209",
+            "congregation": "Браилки",
+            "marker-color": "blue",
+        },
+        "geometry": {
+            "coordinates": [35.053209, 49.829162],
+            "type": "Point"
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "id": "17",
             "name": "БРА - Гавловская Анна Ильинична",
             "address": "ул. Шведская 22, кв. 45",
             "city": "Полтава",
@@ -422,7 +479,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "15",
+            "id": "18",
             "name": "БРА - Голуб Людмила",
             "address": "пер. Островского 5, кв. 2",
             "city": "Полтава",
@@ -441,7 +498,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "16",
+            "id": "19",
             "name": "БРА - Готвянская Мария Сафронова",
             "address": "пер. Великий 4, кв. 23",
             "city": "Полтава",
@@ -461,7 +518,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "17",
+            "id": "20",
             "name": "БРА - Грицай Лариса Васильевна",
             "address": "ул. Павленковская 18, ком. 512",
             "city": "Полтава",
@@ -480,7 +537,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "18",
+            "id": "21",
             "name": "БРА - Грубич Елена Васильевна",
             "address": "ул. Кучеренка 5, кв. 24",
             "city": "Полтава",
@@ -499,7 +556,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "19",
+            "id": "22",
             "name": "БРА - Дмитренко Евгения Сергеевна",
             "address": "с. Яковцы, ул. Автоагрегатчиков 17",
             "city": "Полтава",
@@ -518,7 +575,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "20",
+            "id": "23",
             "name": "БРА - Дмитренко Ярослава Григорьевна",
             "address": "ул. Шевченка 96, кв. 86",
             "city": "Полтава",
@@ -537,7 +594,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "21",
+            "id": "24",
             "name": "БРА - Дорошина Валентина Алексеевна",
             "address": "ул. Квитучая 6, кв. 36",
             "city": "Полтава",
@@ -557,7 +614,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "22",
+            "id": "25",
             "name": "БРА - Дыкань Екатерина Федоровна",
             "address": "пер. Виноградный 3",
             "city": "с. Гожулы",
@@ -577,7 +634,26 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "23",
+            "id": "26",
+            "name": "БРА - Ефремова Валентина Федоровна",
+            "address": "ул. Боровика 3",
+            "city": "с. Степановка",
+            "region": "Полтавская Область",
+            "Index": "38813",
+            "geometry/coordinates/0": "49.800803",
+            "geometry/coordinates/1": "35.078455",
+            "congregation": "Браилки",
+            "marker-color": "blue",
+        },
+        "geometry": {
+            "coordinates": [35.078455, 49.800803],
+            "type": "Point"
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "id": "27",
             "name": "БРА - Жорник Фаина",
             "address": "ул. Краснодонская 19/2 ",
             "city": "с. Веселовка, Диканского р-на",
@@ -592,32 +668,32 @@ var servants = [{
             "coordinates": [34.49286, 49.73541],
             "type": "Point"
         }
-    },
+    }, //28
     {
         "type": "Feature",
         "properties": {
-            "id": "24",
+            "id": "28",
             "name": "БРА - Засенко  Артур Игоревич",
-            "address": "ул. Полюсная 8. кв 116",
+            "address": "ул. Павленковская 8, кв 43",
             "city": "Полтава",
             "region": "Полтавская Область",
-            "geometry/coordinates/0": "49.55385",
-            "geometry/coordinates/1": "34.52135",
+            "geometry/coordinates/0": "49.5996542",
+            "geometry/coordinates/1": "34.5301961",
             "tel": "06388839962",
             "congregation": "Браилки",
             "marker-color": "blue",
         },
         "geometry": {
-            "coordinates": [34.52135, 49.55385],
+            "coordinates": [34.5301961, 49.5996542],
             "type": "Point"
         }
     },
     {
         "type": "Feature",
         "properties": {
-            "id": "25",
-            "name": "БРА - Засенко  Лия ",
-            "address": "ул. Полюсная 8. кв 116",
+            "id": "29",
+            "name": "БРА - Засенко  Лия Александровна",
+            "address": "ул. Павленковская 8, кв 43",
             "city": "Полтава",
             "region": "Полтавская Область",
             "geometry/coordinates/0": "49.554199",
@@ -634,7 +710,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "26",
+            "id": "30",
             "name": "БРА - Засенко Герман Игоревич",
             "address": "ул. Лавчанская 18",
             "city": "Полтава",
@@ -653,7 +729,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "27",
+            "id": "31",
             "name": "БРА - Захлестун Тамара Евгеньевна",
             "address": "ул. Зеньковская 10, кв, 28",
             "city": "Полтава",
@@ -673,7 +749,27 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "28",
+            "id": "32",
+            "name": "БРА - Звонова Людмила Георгиевна",
+            "address": "ул. Европейская 223",
+            "city": "Полтава",
+            "region": "Полтавская Область",
+            "Index": "36000",
+            "geometry/coordinates/0": "49.555148",
+            "geometry/coordinates/1": "34.520877",
+            "congregation": "Браилки",
+            "marker-color": "blue",
+        },
+        "geometry": {
+            "coordinates": [34.520877, 49.555148],
+            "type": "Point"
+        },
+
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "id": "33",
             "name": "БРА - Золотова Анна Борисовна",
             "address": "ул. Кучеренка 5, кв. 24 пгт. Котельва, ул. Покровская (Островского) 67",
             "region": "Полтавская Область",
@@ -687,31 +783,11 @@ var servants = [{
             "coordinates": [34.49249, 49.60424],
             "type": "Point"
         }
-    },
+    }, //34
     {
         "type": "Feature",
         "properties": {
-            "id": "29",
-            "name": "БРА - Игнатьева Елена Генадеевна",
-            "address": "ул. Зеньковская 11/31, кв. 63",
-            "city": "Полтава",
-            "region": "Полтавская Область",
-            "geometry/coordinates/0": "49.60429",
-            "geometry/coordinates/1": "34.52949",
-            "Activity": "не активный",
-            "tel": "0684036203",
-            "congregation": "Браилки",
-            "marker-color": "blue",
-        },
-        "geometry": {
-            "coordinates": [34.52949, 49.60429],
-            "type": "Point"
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "30",
+            "id": "34",
             "name": "БРА - Какотин Геннадий Анатольевич",
             "address": "ул. Октябрьская 74, кв. 36",
             "city": "Полтава",
@@ -731,7 +807,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "31",
+            "id": "35",
             "name": "БРА - Какотина Наталья Владимировна",
             "address": "ул. Октябрьская 74, кв. 36",
             "city": "Полтава",
@@ -750,7 +826,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "32",
+            "id": "36",
             "name": "БРА - Кальянова Елена Васильевна",
             "address": "ул. Сенная 32, кв. 4 ул. Латышева 8, кв. 22",
             "city": "Полтава",
@@ -769,7 +845,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "33",
+            "id": "37",
             "name": "БРА - Керимова Алла",
             "address": "ул. Зеньковская 16, кв. 46",
             "city": "Полтава",
@@ -788,7 +864,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "34",
+            "id": "38",
             "name": "БРА - Киракосов Вячеслав",
             "address": "ул. Центральная 89",
             "city": "с. Тахтаулово",
@@ -807,7 +883,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "35",
+            "id": "39",
             "name": "БРА - Киракосов Евгений",
             "address": "ул. Центральная 89",
             "city": "с. Тахтаулово",
@@ -825,7 +901,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "36",
+            "id": "40",
             "name": "БРА - Киракосов Егор",
             "address": "ул. Центральная 89",
             "city": "с. Тахтаулово",
@@ -843,7 +919,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "37",
+            "id": "41",
             "name": "БРА - Киракосова Светлана",
             "address": "ул. Центральная 89",
             "city": "с. Тахтаулово",
@@ -862,7 +938,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "38",
+            "id": "42",
             "name": "БРА - Кириченко Надежда",
             "address": "ул. Шведская 18, кв. 41",
             "city": "Полтава",
@@ -881,7 +957,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "39",
+            "id": "43",
             "name": "БРА - Ковнерова Ольга Евгеньевна",
             "address": "ул. Петра Юрченка 19, кв. 405",
             "city": "Полтава",
@@ -900,7 +976,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "40",
+            "id": "44",
             "name": "БРА - Кондрашова Ольга",
             "address": "ул. Магистральная 11 кор.0-1, кв. 1",
             "city": "с. Ивонченцы",
@@ -919,7 +995,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "41",
+            "id": "45",
             "name": "БРА - Кононенко Миланья Сергеевна",
             "address": "ул. Медицинская 7, кв. 3",
             "city": "Полтава",
@@ -939,7 +1015,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "42",
+            "id": "46",
             "name": "БРА - Копий Ирина Валентиновна",
             "address": "ул. Петра Юрченка 3, кв. 54",
             "city": "Полтава",
@@ -958,7 +1034,26 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "43",
+            "id": "47",
+            "name": "БРА - Коровянская Ирина Ивановна",
+            "address": "ул. Лесная 50",
+            "city": "Чернякивка",
+            "region": "Полтавская Область",
+            "Index": "38820",
+            "geometry/coordinates/0": "49.774318",
+            "geometry/coordinates/1": "35.155243",
+            "congregation": "Браилки",
+            "marker-color": "blue",
+        },
+        "geometry": {
+            "coordinates": [35.155243, 49.774318],
+            "type": "Point"
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "id": "48",
             "name": "БРА - Кылыч Кира",
             "address": "ул.  Соборности 62, кв 47",
             "city": "Полтава",
@@ -977,7 +1072,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "44",
+            "id": "49",
             "name": "БРА - Кылыч Артур",
             "address": "ул.  Соборности 62, кв 47",
             "city": "Полтава",
@@ -996,7 +1091,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "45",
+            "id": "50",
             "name": "БРА - Лапа Инна Ивановна",
             "address": "пер. Спортивный 1а, кв. 80; с. Розсошенцы, ул. Горбаневская 4, кв. 25",
             "city": "Полтава",
@@ -1015,7 +1110,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "46",
+            "id": "51",
             "name": "БРА - Лапа Максим Николаевич",
             "address": "пер. Спортивный 1а, кв. 80; с. Розсошенцы, ул. Горбаневская 4, кв. 25",
             "city": "Полтава",
@@ -1034,7 +1129,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "47",
+            "id": "52",
             "name": "БРА - Левченко Дмитрий Петрович",
             "address": "ул.М.Бирюзова 82 кв.100",
             "city": "Полтава",
@@ -1052,7 +1147,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "48",
+            "id": "53",
             "name": "БРА - Левченко Нина Петровна",
             "address": "ул. Баленка 8, кв. 38",
             "city": "Полтава",
@@ -1072,7 +1167,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "49",
+            "id": "54",
             "name": "БРА - Левченко Оксана Юрьевна",
             "address": "ул. М. Бирюзова 82, кв. 100; г. Гребёнка, ул. Калинина 14, кв. 36 с. Паризька комуна, д. 23",
             "city": "Полтава",
@@ -1091,7 +1186,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "50",
+            "id": "55",
             "name": "БРА - Лила Ольга Ивановна",
             "address": "ул. Петра Юрченка 9/1, кв. 7",
             "city": "Полтава",
@@ -1110,7 +1205,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "51",
+            "id": "56",
             "name": "БРА - Любая Татьяна Ивановна",
             "address": "ул. Вильямса 6, кв. 45",
             "city": "Полтава",
@@ -1129,7 +1224,26 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "52",
+            "id": "57",
+            "name": "БРА - Макаренко Клара Валериевна",
+            "address": "ул. Максименко 15",
+            "city": "Скороходово",
+            "region": "Полтавская Область",
+            "Index": "38813",
+            "geometry/coordinates/0": "49.771904",
+            "geometry/coordinates/1": "35.05814",
+            "congregation": "Браилки",
+            "marker-color": "blue",
+        },
+        "geometry": {
+            "coordinates": [35.05814, 49.771904],
+            "type": "Point"
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "id": "58",
             "name": "БРА - Макарова Елена",
             "address": "пер. Стрелковый 7",
             "city": "Полтава",
@@ -1144,11 +1258,11 @@ var servants = [{
             "coordinates": [34.515994, 49.606817],
             "type": "Point"
         }
-    },
+    }, //////-----------59
     {
         "type": "Feature",
         "properties": {
-            "id": "53",
+            "id": "59",
             "name": "БРА - Маркова Любовь Васильевна",
             "address": "ул. Ст. Кондратенка 8, кв. 51",
             "city": "Полтава",
@@ -1167,7 +1281,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "54",
+            "id": "60",
             "name": "БРА - Марченко Оксана Васильевна",
             "address": "ул. Опытная 5, кв. 67",
             "city": "Полтава",
@@ -1186,7 +1300,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "55",
+            "id": "61",
             "name": "БРА - Марченко Олег Владимирович",
             "address": "ул. Опытная 5, кв. 67",
             "city": "Полтава",
@@ -1205,7 +1319,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "56",
+            "id": "62",
             "name": "БРА - Мисюра Лариса Григорьевна",
             "address": "ул. Г. Хоткевича 3, кв. 5",
             "city": "Полтава",
@@ -1224,7 +1338,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "57",
+            "id": "63",
             "name": "БРА - Михайлюк Софья",
             "address": "ул. М. Бирюзова 82, кв. 21",
             "city": "Полтава",
@@ -1243,7 +1357,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "58",
+            "id": "64",
             "name": "БРА - Миценко Валентина Владимировна",
             "address": "с. Байрак, ул. Степова 32",
             "city": "Полтава",
@@ -1262,7 +1376,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "59",
+            "id": "65",
             "name": "БРА - Мовчан Евгения Анатольевна",
             "address": "ул. Г. Хоткевича 3, кв. 5",
             "city": "Полтава",
@@ -1281,7 +1395,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "60",
+            "id": "66",
             "name": "БРА - Могильная Галина Анатольевна",
             "address": "ул. Розы Люксембург 11б, кв. 1",
             "city": "Полтава",
@@ -1300,7 +1414,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "61",
+            "id": "67",
             "name": "БРА - Нагорная Зоя Семёновна",
             "address": "ул. Фруктовая 60",
             "city": "Полтава",
@@ -1318,7 +1432,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "62",
+            "id": "68",
             "name": "БРА - Нагорная Наталья Николаевна",
             "address": "ул. Фруктовая 60",
             "city": "Полтава",
@@ -1337,7 +1451,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "63",
+            "id": "69",
             "name": "БРА - Назаренко Татьяна  Николаевна ",
             "address": "Опытная ,6 кв.39.",
             "city": "Полтава",
@@ -1356,7 +1470,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "64",
+            "id": "70",
             "name": "БРА - Олефир Екатерина",
             "address": "ул. М. Бирюзова 80, кв. 30 \nул. Лученка 52, кв. 19",
             "city": "Полтава",
@@ -1375,7 +1489,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "65",
+            "id": "71",
             "name": "БРА - Онацько Ирина Анатольевна",
             "address": "ул. Докучаева 10, кв. 89",
             "city": "Полтава",
@@ -1395,7 +1509,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "66",
+            "id": "72",
             "name": "БРА - Павленко Екатерина ",
             "address": " ул. Уютная, 26 кв.31",
             "city": "Полтава",
@@ -1413,7 +1527,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "67",
+            "id": "73",
             "name": "БРА - Панасенко Зоя Ивановна",
             "address": "ул. Халтурина 6, кв. 39",
             "city": "Полтава",
@@ -1432,7 +1546,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "68",
+            "id": "74",
             "name": "БРА - Пардаев Алешер Файзулаевич",
             "address": "ул Грабиновская 16а",
             "city": "Полтава",
@@ -1451,7 +1565,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "69",
+            "id": "75",
             "name": "БРА - Пардаева Валентина Дмитриевна ",
             "address": "ул Грабиновская 16а",
             "city": "Полтава",
@@ -1470,7 +1584,45 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "70",
+            "id": "76",
+            "name": "БРА - Паскару Вячеслав Александрович",
+            "address": "ул. Софиевская 85/8",
+            "city": "Скороходово",
+            "region": "Полтавская Область",
+            "Index": "38813",
+            "geometry/coordinates/0": "49.768432",
+            "geometry/coordinates/1": "35.07727",
+            "congregation": "Браилки",
+            "marker-color": "blue",
+        },
+        "geometry": {
+            "coordinates": [35.07727, 49.768432],
+            "type": "Point"
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "id": "77",
+            "name": "БРА - Паскару Юлия Вячеславовна",
+            "address": "ул. Софиевская 85/8",
+            "city": "Скороходово",
+            "region": "Полтавская Область",
+            "Index": "38813",
+            "geometry/coordinates/0": "49.768377",
+            "geometry/coordinates/1": "35.077345",
+            "congregation": "Браилки",
+            "marker-color": "blue",
+        },
+        "geometry": {
+            "coordinates": [35.077345, 49.768377],
+            "type": "Point"
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "id": "78",
             "name": "БРА - Пастушенко Валентина Евгеньевна",
             "address": "ул. Грабиновская 16а",
             "city": "Полтава",
@@ -1489,7 +1641,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "71",
+            "id": "79",
             "name": "БРА - Пастушенко Николай Александрович",
             "address": "ул. Грабиновская 16а",
             "city": "Полтава",
@@ -1508,7 +1660,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "72",
+            "id": "80",
             "name": "БРА - Пацуля Людмила Васильевна",
             "address": "ул. Чистопрудная 5",
             "city": "с. Ивонченцы",
@@ -1527,7 +1679,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "73",
+            "id": "81",
             "name": "БРА - Пипоть Юлия Дмитриевна",
             "address": "ул. Красина 83/23 корп. 3, кв. 79",
             "city": "Полтава",
@@ -1546,7 +1698,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "74",
+            "id": "82",
             "name": "БРА - Погорелая Василина Михайловна",
             "address": "с. Байрак, ул. Лесная 10",
             "city": "Полтава",
@@ -1565,7 +1717,26 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "75",
+            "id": "83",
+            "name": "БРА - Покотило Зинаида Васильевна",
+            "address": "ул. Софиевская 18",
+            "city": "Скороходово",
+            "region": "Полтавская Область",
+            "Index": "38813",
+            "geometry/coordinates/0": "49.772396",
+            "geometry/coordinates/1": "35.073954",
+            "congregation": "Браилки",
+            "marker-color": "blue",
+        },
+        "geometry": {
+            "coordinates": [35.073954, 49.772396],
+            "type": "Point"
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "id": "84",
             "name": "БРА - Полякова Алёна Сергеевна",
             "address": "ул. Глущенко 20, кв 5 .",
             "city": "Полтава",
@@ -1584,7 +1755,26 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "76",
+            "id": "85",
+            "name": "БРА - Порпа Андрей Николаевич",
+            "address": "ул. Софиевская 53/1",
+            "city": "Скороходово",
+            "region": "Полтавская Область",
+            "Index": "38813",
+            "geometry/coordinates/0": "49.771239",
+            "geometry/coordinates/1": "35.076572",
+            "congregation": "Браилки",
+            "marker-color": "blue",
+        },
+        "geometry": {
+            "coordinates": [35.076572, 49.771239],
+            "type": "Point"
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "id": "86",
             "name": "БРА - Пушкарь Александр Дмитриевич",
             "address": "ул. Докучаева 10, кв. 114",
             "city": "Полтава",
@@ -1603,7 +1793,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "77",
+            "id": "87",
             "name": "БРА - Расулова Галина Евгеньевна",
             "address": "ул. Гетьмана 13/18, кв. 64",
             "city": "Полтава",
@@ -1622,7 +1812,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "78",
+            "id": "88",
             "name": "БРА - Рослик Вита Александровна",
             "address": "пер. Шевченка 11а, кв. 59",
             "city": "Полтава",
@@ -1641,7 +1831,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "79",
+            "id": "89",
             "name": "БРА - Рослик Виталий Николаевич",
             "address": "пер. Шевченка 11а, кв. 59",
             "city": "Полтава",
@@ -1660,7 +1850,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "80",
+            "id": "90",
             "name": "БРА - Руденко Надежда",
             "address": "ул. Баленка 9, кв. 51",
             "city": "Полтава",
@@ -1679,7 +1869,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "81",
+            "id": "91",
             "name": "БРА - Сахарова Светлана",
             "address": "ул. Квитучая 6, кв. 36",
             "city": "Полтава",
@@ -1699,7 +1889,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "82",
+            "id": "92",
             "name": "БРА - Свирова Зоя Алексеевна",
             "address": "ул. Щорса 10, кв. 13",
             "city": "Полтава",
@@ -1718,7 +1908,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "83",
+            "id": "93",
             "name": "БРА - Северин Наталья Лазаревна",
             "address": "пер. Заячий 1, кв. 105",
             "city": "Полтава",
@@ -1737,7 +1927,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "84",
+            "id": "94",
             "name": "БРА - Сивоконь Алёна Владимировна",
             "address": "ул. Докучаева 10, кв. 10",
             "city": "Полтава",
@@ -1756,7 +1946,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "85",
+            "id": "95",
             "name": "БРА - Сивоконь Валентина Владимировна",
             "address": "ул. Докучаева 10, кв. 10",
             "city": "Полтава",
@@ -1775,7 +1965,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "86",
+            "id": "96",
             "name": "БРА - Строкань Елена ",
             "address": "М. Бирюзова,48/2 .",
             "city": "Полтава",
@@ -1794,7 +1984,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "87",
+            "id": "97",
             "name": "БРА - Сузыма Раиса Акимовна",
             "address": "ул. Ульяновых (Глиба Котельникова) 15, кв. 1",
             "city": "Полтава",
@@ -1813,7 +2003,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "88",
+            "id": "98",
             "name": "БРА - Сухолотюк Ольга",
             "address": "ул. Петра Юрченка 3, кв. 11",
             "city": "Полтава",
@@ -1832,7 +2022,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "89",
+            "id": "99",
             "name": "БРА - Тучин Геннадий  Викторович",
             "address": "пер. Шевченко 3, кв 39",
             "city": "Полтава",
@@ -1851,7 +2041,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "90",
+            "id": "100",
             "name": "БРА - Тучина Наталья Дмитриевна",
             "address": "пер. Шевченко 3, кв 39",
             "city": "Полтава",
@@ -1870,7 +2060,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "91",
+            "id": "101",
             "name": "БРА - Урская Светлана Константиновна",
             "address": "ул. Баленка 4,кв.27",
             "city": "Полтава",
@@ -1889,7 +2079,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "92",
+            "id": "102",
             "name": "БРА - Урская Юлия Александровна",
             "address": "ул. Баленка 4,кв.27",
             "city": "Полтава",
@@ -1908,7 +2098,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "93",
+            "id": "103",
             "name": "БРА - Феделеш Анна",
             "address": "ул. М. Бирюзова 50/1, кв. 10",
             "city": "Полтава",
@@ -1927,7 +2117,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "94",
+            "id": "104",
             "name": "БРА - Филь Надежда",
             "address": "ул. Магистральная 11 кор.0-1, кв. 1",
             "city": "с. Ивонченцы",
@@ -1946,7 +2136,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "95",
+            "id": "105",
             "name": "БРА - Хабаши Анастасия Александровна",
             "address": "ул. Прозора 5",
             "city": "Полтава",
@@ -1965,8 +2155,8 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "96",
-            "name": "БРА - Хабаши Х.",
+            "id": "106",
+            "name": "БРА - Хабаши Хаджет",
             "address": "ул. Прозора 5",
             "city": "Полтава",
             "region": "Полтавская Область",
@@ -1984,7 +2174,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "97",
+            "id": "107",
             "name": "БРА - Шаркова Любовь Андреевна",
             "address": "ул. Гожулянская 26, кв. 118",
             "city": "Полтава",
@@ -2003,7 +2193,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "98",
+            "id": "108",
             "name": "БРА - Шинкаренко Инна Владимировна",
             "address": "ул. Медицинская 10, кв. 30",
             "city": "Полтава",
@@ -2023,7 +2213,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "99",
+            "id": "109",
             "name": "БРА - Шинкаренко Татьяна Петровна",
             "address": "ул. Медицинская 10, кв. 30",
             "city": "Полтава",
@@ -2043,7 +2233,26 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "100",
+            "id": "110",
+            "name": "БРА - Шкляр Надежда Ивановна",
+            "address": "ул.Софиевская 31в/42",
+            "city": "Скороходово",
+            "region": "Полтавская Область",
+            "Index": "38813",
+            "geometry/coordinates/0": "49.773965",
+            "geometry/coordinates/1": "35.076315",
+            "congregation": "Браилки",
+            "marker-color": "blue",
+        },
+        "geometry": {
+            "coordinates": [35.076315, 49.773965],
+            "type": "Point"
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "id": "111",
             "name": "БРА - Шостак Вилена Васильевна",
             "address": "ул. Чехова 10",
             "city": "Полтава",
@@ -2062,7 +2271,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "101",
+            "id": "112",
             "name": "БРА - Шостя Виктория А.",
             "address": "ул. Гетьмана 3, кв. 62",
             "city": "Полтава",
@@ -2081,7 +2290,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "102",
+            "id": "113",
             "name": "БРА - Эсаулов Сергей",
             "address": "пер..Стрелковый 7",
             "city": "Полтава",
@@ -2100,7 +2309,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "103",
+            "id": "114",
             "name": "БРА - Яцюк Анатолий Михайлович",
             "address": "М . Бирюзова, 88 кв. 24",
             "city": "Полтава",
@@ -2119,7 +2328,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "104",
+            "id": "115",
             "name": "ЦТР - Абросенков Андрей Владимирович",
             "address": "переулок Стрелковый, 4",
             "city": "Полтава",
@@ -2138,7 +2347,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "105",
+            "id": "116",
             "name": "ЦТР - Абросенков Даниил Владимирович",
             "address": "улица Железная, 54",
             "city": "Полтава",
@@ -2157,7 +2366,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "106",
+            "id": "117",
             "name": "ЦТР - Абросенкова Анна Владимировна",
             "address": "улица Железная, 54",
             "city": "Полтава",
@@ -2176,7 +2385,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "107",
+            "id": "118",
             "name": "ЦТР - Абросенкова Яна Ивановна",
             "address": "переулок Стрелковый, 4",
             "city": "Полтава",
@@ -2195,7 +2404,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "108",
+            "id": "119",
             "name": "ЦТР - Алданов Игорь Михайлович",
             "address": "улица Узкая, 11",
             "city": "Полтава",
@@ -2214,7 +2423,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "109",
+            "id": "120",
             "name": "ЦТР - Алданова Марина Степановна",
             "address": "улица Узкая, 11",
             "city": "Полтава",
@@ -2233,7 +2442,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "110",
+            "id": "121",
             "name": "ЦТР - Антонова Тамара Юрьевна",
             "address": "улица Пушкина, 9",
             "city": "с.Ватажково/ Полтавский",
@@ -2253,7 +2462,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "111",
+            "id": "122",
             "name": "ЦТР - Базанов Александр Георгиевич",
             "address": "улица Головко, 18",
             "city": "Полтава",
@@ -2272,7 +2481,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "112",
+            "id": "123",
             "name": "ЦТР - Барановская Елена Александровна",
             "address": "улица ПРЗ, 9",
             "city": "Полтава",
@@ -2291,7 +2500,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "113",
+            "id": "124",
             "name": "ЦТР - Барановская Татьяна Геннадьевна",
             "address": "улица ПРЗ, 9",
             "city": "Полтава",
@@ -2310,7 +2519,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "114",
+            "id": "125",
             "name": "ЦТР - Барановский Максим Владимирович",
             "address": "улица ПРЗ, 9",
             "city": "Полтава",
@@ -2329,7 +2538,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "115",
+            "id": "126",
             "name": "ЦТР - Белоконь Наталья Петровна",
             "address": "улица Европейская, 66",
             "city": "Полтава",
@@ -2348,7 +2557,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "116",
+            "id": "127",
             "name": "ЦТР - Белоус Галина Алексеевна",
             "address": "улица Чураивны, 11",
             "city": "Полтава",
@@ -2367,7 +2576,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "117",
+            "id": "128",
             "name": "ЦТР - Бородина Янина Андреевна",
             "address": "переулок Рыбальский, 12",
             "city": "Полтава",
@@ -2386,7 +2595,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "118",
+            "id": "129",
             "name": "ЦТР - Брилевская Любовь Альбертовна",
             "city": "с. Коломак/ Решетиловский",
             "region": "Полтавская Область",
@@ -2404,7 +2613,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "119",
+            "id": "130",
             "name": "ЦТР - Бугаевская Юлия Федоровна",
             "address": "проспект Н. Вавилова, 5",
             "city": "Полтава",
@@ -2423,7 +2632,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "120",
+            "id": "131",
             "name": "ЦТР - Бухарина Юлия Геннадьевна",
             "address": "проспект Н. Вавилова, 13",
             "city": "Полтава",
@@ -2442,7 +2651,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "121",
+            "id": "132",
             "name": "ЦТР - Войнов Валентин Эвальдович",
             "address": "бульвар Богдана Хмельницкого, 9",
             "city": "Полтава",
@@ -2461,7 +2670,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "122",
+            "id": "133",
             "name": "ЦТР - Войнова Тамара Ивановна",
             "address": "бульвар Богдана Хмельницкого, 9",
             "city": "Полтава",
@@ -2480,7 +2689,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "123",
+            "id": "134",
             "name": "ЦТР - Ворона Галина Григорьевна",
             "city": "с. Рясское/ Машевский",
             "region": "Полтавская Область",
@@ -2499,7 +2708,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "124",
+            "id": "135",
             "name": "ЦТР - Галетка Евгения Ивановна",
             "address": "переулок Стрелковый, 4",
             "city": "Полтава",
@@ -2518,7 +2727,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "125",
+            "id": "136",
             "name": "ЦТР - Галетка Сергей Фёдорович",
             "address": "переулок Стрелковый, 4",
             "city": "Полтава",
@@ -2537,7 +2746,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "126",
+            "id": "137",
             "name": "ЦТР - Герасименко Сергей Яковлевич",
             "address": "проспект Н. Вавилова, 1",
             "city": "Полтава",
@@ -2556,7 +2765,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "127",
+            "id": "138",
             "name": "ЦТР - Глушко Виктор Александрович",
             "address": "улица Лесная, 7",
             "city": "с. Копылы/ Полтавский",
@@ -2575,7 +2784,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "128",
+            "id": "139",
             "name": "ЦТР - Гоженко Анна Тимофеевна",
             "address": "улица Рабочая, 11а",
             "city": "с. Терешки/ Полтавский",
@@ -2595,7 +2804,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "129",
+            "id": "140",
             "name": "ЦТР - Головко Екатерина Романовна",
             "address": "улица Первомайская, ",
             "city": "с. Малая Нехвороща/ Машевский",
@@ -2615,7 +2824,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "130",
+            "id": "141",
             "name": "ЦТР - Госоляк Валентина Михайловна",
             "address": "улица Европейская, 75",
             "city": "Полтава",
@@ -2634,7 +2843,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "131",
+            "id": "142",
             "name": "ЦТР - Госоляк Игорь Богданович",
             "address": "улица Европейская, 75",
             "city": "Полтава",
@@ -2653,7 +2862,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "132",
+            "id": "143",
             "name": "ЦТР - Гренко Алексей Владимирович",
             "address": "улица Гоголя, 4",
             "city": "Полтава",
@@ -2672,7 +2881,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "133",
+            "id": "144",
             "name": "ЦТР - Гренко Вита Валерьевна",
             "address": "улица Гоголя, 4",
             "city": "Полтава",
@@ -2691,7 +2900,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "134",
+            "id": "145",
             "name": "ЦТР - Гриненко Юлия Викторовна",
             "address": "улица Головко, 14",
             "city": "Полтава",
@@ -2710,7 +2919,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "135",
+            "id": "146",
             "name": "ЦТР - Громова Людмила Викторовна",
             "address": "улица Головко, 8",
             "city": "Полтава",
@@ -2729,7 +2938,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "136",
+            "id": "147",
             "name": "ЦТР - Делендык Алёна Васильевна",
             "address": "улица Головко, 4",
             "city": "Полтава",
@@ -2748,7 +2957,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "137",
+            "id": "148",
             "name": "ЦТР - Делендык Людмила Сергеевна",
             "address": "улица Головко, 4",
             "city": "Полтава",
@@ -2767,7 +2976,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "138",
+            "id": "149",
             "name": "ЦТР - Деревянко Людмила Ивановна",
             "address": "бульвар Богдана Хмельницкого, 9",
             "city": "Полтава",
@@ -2786,7 +2995,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "139",
+            "id": "150",
             "name": "ЦТР - Деркач Иван Григорьевич",
             "address": "улица Королёва, 65",
             "city": "с. Миновка/ Полтавский",
@@ -2805,7 +3014,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "140",
+            "id": "151",
             "name": "ЦТР - Едунова Владилена Ивановна",
             "address": "улица Пушкина, 9",
             "city": "с.Ватажково/ Полтавский",
@@ -2825,7 +3034,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "141",
+            "id": "152",
             "name": "ЦТР - Ефименко Светлана Юрьевна",
             "address": "улица Калиновая, 25",
             "city": "с.Коломацкое/ Полтавский",
@@ -2844,7 +3053,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "142",
+            "id": "153",
             "name": "ЦТР - Ефименко Татьяна Евгеньевна",
             "address": "бульвар Богдана Хмельницкого, 13",
             "city": "Полтава",
@@ -2863,7 +3072,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "143",
+            "id": "154",
             "name": "ЦТР - Жуков Геннадий Васильевич",
             "address": "улица Ярошенко, 30",
             "city": "с. Копылы/ Полтавский",
@@ -2882,7 +3091,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "144",
+            "id": "155",
             "name": "ЦТР - Жуков Евгений Геннадьевич",
             "address": "улица Ярошенко, 30",
             "city": "с. Копылы/ Полтавский",
@@ -2901,7 +3110,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "145",
+            "id": "156",
             "name": "ЦТР - Жукова Наталья Владимировна",
             "address": "улица Ярошенко, 30",
             "city": "с. Копылы/ Полтавский",
@@ -2920,7 +3129,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "146",
+            "id": "157",
             "name": "ЦТР - Жулинская Елена Ивановна",
             "address": "улица Южная, 2",
             "city": "Полтава",
@@ -2939,7 +3148,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "147",
+            "id": "158",
             "name": "ЦТР - Жулинский Анатолий Александрович",
             "address": "улица Южная, 2",
             "city": "Полтава",
@@ -2958,7 +3167,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "148",
+            "id": "159",
             "name": "ЦТР - Заровная Галина Эдуардовна",
             "address": "улица Головко, 18",
             "city": "Полтава",
@@ -2977,7 +3186,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "149",
+            "id": "160",
             "name": "ЦТР - Иващенко Вячеслав Михайлович",
             "address": "улица Южная, 77",
             "city": "Полтава",
@@ -2996,7 +3205,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "150",
+            "id": "161",
             "name": "ЦТР - Иващенко Оксана Викторовна",
             "address": "улица Южная, 77",
             "city": "Полтава",
@@ -3015,7 +3224,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "151",
+            "id": "162",
             "name": "ЦТР - Игнатенко Вера Николаевна",
             "address": "улица Р.Кириченко, 39",
             "city": "Полтава",
@@ -3034,7 +3243,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "152",
+            "id": "163",
             "name": "ЦТР - Калинчук Наталья Фёдоровна",
             "address": "переулок Рыбальский, 16",
             "city": "Полтава",
@@ -3053,7 +3262,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "153",
+            "id": "164",
             "name": "ЦТР - Клименко Валентина ",
             "address": "улица Повстанческая, 47",
             "city": "с. Рыбцы/ Полтавский",
@@ -3072,7 +3281,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "154",
+            "id": "165",
             "name": "ЦТР - Козуб Евдокия Александровна",
             "address": "улица Шляхова, 35",
             "city": "с. Великий Тростянец/ Полтавский",
@@ -3092,7 +3301,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "155",
+            "id": "166",
             "name": "ЦТР - Койнаш Наталья Ивановна",
             "address": "улица А. Бедного, 11",
             "city": "Полтава",
@@ -3112,7 +3321,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "156",
+            "id": "167",
             "name": "ЦТР - Коломиец Нина Ильинична",
             "address": ", ",
             "city": "с. Рясское/ Машевский",
@@ -3132,7 +3341,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "157",
+            "id": "168",
             "name": "ЦТР - Коляда Любовь Васильевна",
             "address": "улица Марата, 7",
             "city": "Полтава",
@@ -3151,7 +3360,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "158",
+            "id": "169",
             "name": "ЦТР - Корнилко Валентина Филипповна",
             "address": "улица Небесной Сотни 114",
             "city": "Полтава",
@@ -3170,7 +3379,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "159",
+            "id": "170",
             "name": "ЦТР - Коровянская Ирина Евгеньевна",
             "address": ", ",
             "city": "с. Рясское/ Машевский",
@@ -3190,7 +3399,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "160",
+            "id": "171",
             "name": "ЦТР - Коровянская Юлия Сергеевна",
             "address": ", ",
             "city": "с. Рясское/ Машевский",
@@ -3210,7 +3419,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "161",
+            "id": "172",
             "name": "ЦТР - Косминский Николай Григорьевич",
             "address": "бульвар Богдана Хмельницкого, 18",
             "city": "Полтава",
@@ -3230,7 +3439,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "162",
+            "id": "173",
             "name": "ЦТР - Крыштоп Тамара Георгиевна",
             "address": "проспект Н.Вавилова, 1",
             "city": "Полтава",
@@ -3249,7 +3458,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "163",
+            "id": "174",
             "name": "ЦТР - Кудинов Сергей Анатольевич",
             "address": "улица Европейская, 63",
             "city": "Полтава",
@@ -3268,7 +3477,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "164",
+            "id": "175",
             "name": "ЦТР - Кудинова Нина Исааковна",
             "address": "улица Европейская, 63",
             "city": "Полтава",
@@ -3287,7 +3496,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "165",
+            "id": "176",
             "name": "ЦТР - Кузнецова Вера Григорьевна",
             "address": "улица Горького, 102",
             "city": "с. Копылы/ Полтавский",
@@ -3306,7 +3515,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "166",
+            "id": "177",
             "name": "ЦТР - Кущ Ирина Николаевна",
             "address": "улица Покровская, 33",
             "city": "Полтава",
@@ -3325,7 +3534,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "167",
+            "id": "178",
             "name": "ЦТР - Лазаренко Вера Алексеевна",
             "address": "улица Чураивны, 11",
             "city": "Полтава",
@@ -3344,7 +3553,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "168",
+            "id": "179",
             "name": "ЦТР - Лёзин Дмитрий Иванович",
             "address": "бульвар Богдана Хмельницкого, 17",
             "city": "Полтава",
@@ -3364,7 +3573,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "169",
+            "id": "180",
             "name": "ЦТР - Лёзина Оксана Александровна",
             "address": "бульвар Богдана Хмельницкого, 17",
             "city": "Полтава",
@@ -3384,7 +3593,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "170",
+            "id": "181",
             "name": "ЦТР - Лейно Мария Юлиевна",
             "address": "бульвар Богдана Хмельницкого, 18",
             "city": "Полтава",
@@ -3404,7 +3613,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "171",
+            "id": "182",
             "name": "ЦТР - Ливер Виктория Владимировна",
             "address": "улица Европейская, 38",
             "city": "Полтава",
@@ -3423,7 +3632,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "172",
+            "id": "183",
             "name": "ЦТР - Ливер Владимир Григорьевич",
             "address": "улица Европейская, 38",
             "city": "Полтава",
@@ -3442,7 +3651,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "173",
+            "id": "184",
             "name": "ЦТР - Литвин Анжелика Константиновна",
             "address": "улица Ивана Мазепы, 1",
             "city": "Полтава",
@@ -3461,7 +3670,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "174",
+            "id": "185",
             "name": "ЦТР - Литвин Роман Николаевич",
             "address": "улица Ивана Мазепы, 1",
             "city": "Полтава",
@@ -3480,7 +3689,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "175",
+            "id": "186",
             "name": "ЦТР - Лукачина Оксана Юрьевна",
             "address": "улица Чураивны, 3",
             "city": "Полтава",
@@ -3499,7 +3708,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "176",
+            "id": "187",
             "name": "ЦТР - Луцай Любовь Николаевна",
             "address": "улица Котляревского, 26",
             "city": "Полтава",
@@ -3518,7 +3727,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "177",
+            "id": "188",
             "name": "ЦТР - Майборода Ирина Николаевна",
             "address": "улица Центральная, 64а",
             "city": "с. Никольское/ Полтавский",
@@ -3537,7 +3746,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "178",
+            "id": "189",
             "name": "ЦТР - Мелешко Нина Григорьевна",
             "address": "переулок Рыбальский, 16",
             "city": "Полтава",
@@ -3556,7 +3765,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "179",
+            "id": "190",
             "name": "ЦТР - Моисеенко Екатерина Анатольевна",
             "address": "улица Ломоносова, 35",
             "city": "Полтава",
@@ -3575,7 +3784,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "180",
+            "id": "191",
             "name": "ЦТР - Москаленко Нина Николаевна",
             "address": "улица Богдана Хмельницкого, 32",
             "city": "Полтава",
@@ -3594,7 +3803,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "181",
+            "id": "192",
             "name": "ЦТР - Мотрий Валерий Андреевич",
             "address": "улица Перепелиная, 9",
             "city": "с. Рыбцы/ Полтавский",
@@ -3613,7 +3822,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "182",
+            "id": "193",
             "name": "ЦТР - Мотрий Наталья Михайловна",
             "address": "улица Перепелиная, 9",
             "city": "с. Рыбцы/ Полтавский",
@@ -3632,7 +3841,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "183",
+            "id": "194",
             "name": "ЦТР - Назаренко Раиса Андреевна",
             "address": "улица Южная, 2",
             "city": "Полтава",
@@ -3651,7 +3860,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "184",
+            "id": "195",
             "name": "ЦТР - Науменко Юлия Александровна",
             "address": "улица Добролюбова, 25",
             "city": "Полтава",
@@ -3670,7 +3879,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "185",
+            "id": "196",
             "name": "ЦТР - Неизвидский Виталий Андреевич",
             "address": "улица Узкая, 11",
             "city": "Полтава",
@@ -3689,7 +3898,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "186",
+            "id": "197",
             "name": "ЦТР - Нестеренко Юлия Васильевна",
             "address": "бульвар Богдана Хмельницкого, 13",
             "city": "Полтава",
@@ -3708,7 +3917,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "187",
+            "id": "198",
             "name": "ЦТР - Пашин Леонид Владимирович",
             "address": "улица Европейская, 87",
             "city": "Полтава",
@@ -3727,7 +3936,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "188",
+            "id": "199",
             "name": "ЦТР - Пашин Сергей Леонидович",
             "address": "улица Европейская, 87",
             "city": "Полтава",
@@ -3746,7 +3955,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "189",
+            "id": "200",
             "name": "ЦТР - Пашина Анна Алексеевна",
             "address": "улица Европейская, 87",
             "city": "Полтава",
@@ -3765,7 +3974,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "190",
+            "id": "201",
             "name": "ЦТР - Пащенко Алла Николаевна",
             "address": "улица Затишна, 2",
             "city": "с. Ватажково/ Полтавский",
@@ -3784,7 +3993,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "191",
+            "id": "202",
             "name": "ЦТР - Педченко Алла Васильевна",
             "address": "улица Победы, 11",
             "city": "с. Копылы/ Полтавский",
@@ -3803,7 +4012,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "192",
+            "id": "203",
             "name": "ЦТР - Писковая Зинаида Терентьевна",
             "address": "переулок Баварский, 3",
             "city": "Полтава",
@@ -3822,7 +4031,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "193",
+            "id": "204",
             "name": "ЦТР - Рабачкова Ольга Никаноровна",
             "address": "улица Сапиго, 6",
             "city": "Полтава",
@@ -3841,7 +4050,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "194",
+            "id": "205",
             "name": "ЦТР - Разумова Тамара Васильевна",
             "address": "переулок 2-й Трубный, 7",
             "city": "Полтава",
@@ -3860,7 +4069,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "195",
+            "id": "206",
             "name": "ЦТР - Ревенко Надежда Владимировна",
             "address": "улица Садовая, 78",
             "city": "с. Степное/ Полтавский",
@@ -3879,7 +4088,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "196",
+            "id": "207",
             "name": "ЦТР - Рудак Владимир Николаевич",
             "address": "улица Чураивны, 23",
             "city": "с. Ватажково/ Полтавский",
@@ -3898,7 +4107,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "197",
+            "id": "208",
             "name": "ЦТР - Рудак Наталья Дмитриевна",
             "address": "улица Чураивны, 23",
             "city": "с. Ватажково/ Полтавский",
@@ -3917,7 +4126,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "198",
+            "id": "209",
             "name": "ЦТР - Сеневич Любовь Ивановна",
             "address": "улица Луговая, 15",
             "city": "с. Рясское/ Машевский",
@@ -3937,7 +4146,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "199",
+            "id": "210",
             "name": "ЦТР - Сидоренко Ульяна Степановна",
             "address": "улица Головко, 10",
             "city": "Полтава",
@@ -3956,7 +4165,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "200",
+            "id": "211",
             "name": "ЦТР - Сисько Яна Анатольевна",
             "address": "улица Журавлиная, 6",
             "city": "с. Ватажково/ Полтавский",
@@ -3976,7 +4185,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "201",
+            "id": "212",
             "name": "ЦТР - Спивак Елена Владимировна",
             "address": "улица Кучеренко, 9",
             "city": "с. Нижние Млыны/ Полтавский",
@@ -3995,7 +4204,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "202",
+            "id": "213",
             "name": "ЦТР - Тарабукина Ольга Степановна",
             "address": "улица Ватутина, 36а",
             "city": "Полтава",
@@ -4014,7 +4223,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "203",
+            "id": "214",
             "name": "ЦТР - Телятник Вера Ивановна",
             "address": "улица Харьковская, 34",
             "city": "с. Копылы/ Полтавский",
@@ -4033,7 +4242,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "204",
+            "id": "215",
             "name": "ЦТР - Тихоненко Дмитрий Иванович",
             "address": "улица Головко, 4",
             "city": "Полтава",
@@ -4052,7 +4261,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "205",
+            "id": "216",
             "name": "ЦТР - Тихоненко Лидия Павловна",
             "address": "улица Головко, 4",
             "city": "Полтава",
@@ -4071,7 +4280,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "206",
+            "id": "217",
             "name": "ЦТР - Тихоненко Татьяна Ивановна",
             "address": "улица Головко, 4",
             "city": "Полтава",
@@ -4090,7 +4299,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "207",
+            "id": "218",
             "name": "ЦТР - Ткаченко Михаил Юрьевич",
             "address": "улица Пушкина, 9",
             "city": "с.Ватажково/ Полтавский",
@@ -4110,7 +4319,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "208",
+            "id": "219",
             "name": "ЦТР - Тонконоженко Анастасия Дмитриевна",
             "address": "переулок Р.Шухевича, 3",
             "city": "Полтава",
@@ -4129,7 +4338,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "209",
+            "id": "220",
             "name": "ЦТР - Тонконоженко Виктория Владимировна",
             "address": "переулок Р.Шухевича, 3",
             "city": "Полтава",
@@ -4148,7 +4357,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "210",
+            "id": "221",
             "name": "ЦТР - Тонконоженко Дмитрий Викторович",
             "address": "переулок Р.Шухевича, 3",
             "city": "Полтава",
@@ -4167,7 +4376,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "211",
+            "id": "222",
             "name": "ЦТР - Тонконоженко Виктория Викторовна",
             "address": "переулок Вагонный, 2",
             "city": "Полтава",
@@ -4186,7 +4395,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "212",
+            "id": "223",
             "name": "ЦТР - Тригуб Валентина Владимировна",
             "address": "улица Европейская, 63",
             "city": "Полтава",
@@ -4205,7 +4414,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "213",
+            "id": "224",
             "name": "ЦТР - Федорина Людмила Николаевна",
             "address": "улица А. Бедного, 20",
             "city": "Полтава",
@@ -4224,7 +4433,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "214",
+            "id": "225",
             "name": "ЦТР - Филинская Раиса Ильинична",
             "address": "улица Подгорная, ",
             "city": "с. Рясское/ Машевский",
@@ -4244,7 +4453,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "215",
+            "id": "226",
             "name": "ЦТР - Филиппович Галина Владимировна",
             "address": "переулок Марата, 3",
             "city": "Полтава",
@@ -4263,7 +4472,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "216",
+            "id": "227",
             "name": "ЦТР - Хавренко Иван Иванович",
             "address": "переулок Стрелковый, 4",
             "city": "Полтава",
@@ -4282,7 +4491,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "217",
+            "id": "228",
             "name": "ЦТР - Хавренко Людмила Викторовна",
             "address": "переулок Стрелковый, 4",
             "city": "Полтава",
@@ -4301,7 +4510,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "218",
+            "id": "229",
             "name": "ЦТР - Хижняк Ольга Сергеевна",
             "address": "улица Сковороды, 45",
             "city": "Полтава",
@@ -4320,7 +4529,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "219",
+            "id": "230",
             "name": "ЦТР - Цебржинский Игорь Игоревич",
             "address": "переулок Вечный, 14",
             "city": "Полтава",
@@ -4339,7 +4548,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "220",
+            "id": "231",
             "name": "ЦТР - Цыба Наталья Фёдоровна",
             "address": "улица Мира, 19а",
             "city": "с. Селещина/ Машевский",
@@ -4359,7 +4568,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "221",
+            "id": "232",
             "name": "ЦТР - Чекалюк Галина Филипповна",
             "address": "бульвар Богдана Хмельницкого, 18",
             "city": "Полтава",
@@ -4378,7 +4587,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "222",
+            "id": "233",
             "name": "ЦТР - Череванёва Лидия Михайловна",
             "address": "улица 1100-летия Полтавы, 4",
             "city": "Полтава",
@@ -4397,7 +4606,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "223",
+            "id": "234",
             "name": "ЦТР - Черникова Екатерина Алексеевна",
             "address": "проспект Н. Вавилова, 9",
             "city": "Полтава",
@@ -4416,7 +4625,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "224",
+            "id": "235",
             "name": "ЦТР - Чернушенко Наталья Юрьевна",
             "address": "переулок Марата, 7",
             "city": "Полтава",
@@ -4435,7 +4644,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "225",
+            "id": "236",
             "name": "ЦТР - Чугуй Любовь Константиновна",
             "address": "улица Оксаны Мешко, 24",
             "city": "Полтава",
@@ -4455,7 +4664,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "226",
+            "id": "237",
             "name": "ЦТР - Шапченко Екатерина Александровна",
             "address": "проспект Н. Вавилова, 1",
             "city": "Полтава",
@@ -4474,7 +4683,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "227",
+            "id": "238",
             "name": "ЦТР - Шевченко Павел Александрович",
             "address": "улица Сапиго, 6",
             "city": "Полтава",
@@ -4493,7 +4702,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "228",
+            "id": "239",
             "name": "ЦТР - Шевченко Юлия Владимировна",
             "address": "улица Сапиго, 6",
             "city": "Полтава",
@@ -4512,7 +4721,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "229",
+            "id": "240",
             "name": "ЦТР - Шматко Любовь Пантелеймоновна",
             "address": "улица Шевченко, 23",
             "city": "с. Вацы/ Полтавский",
@@ -4531,7 +4740,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "230",
+            "id": "241",
             "name": "ЦТР - Щеглова Татьяна Леонидовна",
             "address": "улица Н.Сотни 114",
             "city": "Полтава",
@@ -4550,7 +4759,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "231",
+            "id": "242",
             "name": "ЦТР - Эвентаве Валентина Михайловна",
             "address": "улица Европейская, 42",
             "city": "Полтава",
@@ -4569,7 +4778,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "232",
+            "id": "243",
             "name": "ЦТР - Эсаулова Наталья Анатольевна",
             "address": "улица Яценко, 1",
             "city": "Полтава",
@@ -4588,7 +4797,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "233",
+            "id": "244",
             "name": "ЮРО - Балаба Надежда",
             "address": "пер. Весёлый 2/16",
             "city": "Полтава",
@@ -4607,7 +4816,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "234",
+            "id": "245",
             "name": "ЮРО - Бахшиева Ирина Евгениевна",
             "address": "ул. Октябрская 79",
             "city": "Полтава",
@@ -4626,7 +4835,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "235",
+            "id": "246",
             "name": "ЮРО - Береза Миланья Сергеевна",
             "address": "ул. Первомайская",
             "city": "С. Тахтаулово",
@@ -4645,7 +4854,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "236",
+            "id": "247",
             "name": "ЮРО - Бондарь Татьяна Прокофьевна",
             "address": "Октябрская 60а, кв. 24",
             "city": "Полтава",
@@ -4664,7 +4873,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "237",
+            "id": "248",
             "name": "ЮРО - Двужилова Елена Владимировна",
             "address": "Ул. Грабиновская 22б",
             "city": "Полтава",
@@ -4683,7 +4892,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "238",
+            "id": "249",
             "name": "ЮРО - Джупий Татьяна Ивановна",
             "address": "Пер. Федька 9",
             "city": "Полтава",
@@ -4702,7 +4911,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "239",
+            "id": "250",
             "name": "ЮРО - Донченко Валентина Михайловна",
             "address": "Ул. Сурикова, 3",
             "city": "Полтава",
@@ -4721,7 +4930,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "240",
+            "id": "251",
             "name": "ЮРО - Доровскнх Лидия Иосифовна",
             "address": "Ул. Круговая 35",
             "city": "Полтава",
@@ -4740,7 +4949,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "241",
+            "id": "252",
             "name": "ЮРО - Дробышевская Надежда Васильевна",
             "address": "Артёма 45",
             "city": "Полтава",
@@ -4759,7 +4968,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "242",
+            "id": "253",
             "name": "ЮРО - Жидкова Анастасия Сергеевна",
             "address": "Уютная 28",
             "city": "Полтава",
@@ -4778,7 +4987,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "243",
+            "id": "254",
             "name": "ЮРО - Жидков Андрей Петрович",
             "address": "Уютная 28",
             "city": "Полтава",
@@ -4797,7 +5006,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "244",
+            "id": "255",
             "name": "ЮРО - Жидкова Галина Васильевна",
             "address": "Уютная 28",
             "city": "Полтава",
@@ -4816,7 +5025,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "245",
+            "id": "256",
             "name": "ЮРО - Жидков Павел Андреевич",
             "address": "Уютная 28",
             "city": "Полтава",
@@ -4835,7 +5044,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "246",
+            "id": "257",
             "name": "ЮРО - Забельская Любовь Ивановна",
             "address": "Пушкина 116",
             "city": "Полтава",
@@ -4854,7 +5063,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "247",
+            "id": "258",
             "name": "ЮРО - Зиновьева Алла Прокопьевна",
             "address": "Пушкина 66а",
             "city": "Полтава",
@@ -4873,7 +5082,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "248",
+            "id": "259",
             "name": "ЮРО - Зозуля Александр Николаевич",
             "address": "ул. Касьяна 10",
             "city": "С. Тахтаулово",
@@ -4892,7 +5101,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "249",
+            "id": "260",
             "name": "ЮРО - Зозуля Николай",
             "address": "ул. Касьяна 10",
             "city": "С. Тахтаулово",
@@ -4911,7 +5120,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "250",
+            "id": "261",
             "name": "ЮРО - Зозуля Татьяна",
             "address": "ул. Касьяна 10",
             "city": "С. Тахтаулово",
@@ -4930,7 +5139,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "251",
+            "id": "262",
             "name": "ЮРО - Иванов Игорь Дмитриевич",
             "address": "Ул. Далёкая 22",
             "city": "Полтава",
@@ -4949,7 +5158,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "252",
+            "id": "263",
             "name": "ЮРО - Иванова Татьяна Павловна",
             "address": "Ул. Далёкая 22",
             "city": "Полтава",
@@ -4968,7 +5177,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "253",
+            "id": "264",
             "name": "ЮРО - Камнева Таисия Аксентиевна",
             "address": "Ул. Некрасова 1",
             "city": "Полтава",
@@ -4987,7 +5196,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "254",
+            "id": "265",
             "name": "ЮРО - Колесник Светлана Николаевна",
             "address": "Леси Украинки 25",
             "city": "Полтава",
@@ -5006,7 +5215,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "255",
+            "id": "266",
             "name": "ЮРО - Колотий Марина Генадиевна",
             "address": "Ул. С. Кондратенка 12",
             "city": "Полтава",
@@ -5025,7 +5234,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "256",
+            "id": "267",
             "name": "ЮРО - Котлубай Нина",
             "address": "Ул. Уютная 26",
             "city": "Полтава",
@@ -5045,7 +5254,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "257",
+            "id": "268",
             "name": "ЮРО - Кравец Наталья Ивановна",
             "address": "Ул. Пушкина 145",
             "city": "Полтава",
@@ -5064,7 +5273,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "258",
+            "id": "269",
             "name": "ЮРО - Крапивина Мария Тимофеевна",
             "address": "Ул. Артёма 7/22",
             "city": "Полтава",
@@ -5083,7 +5292,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "259",
+            "id": "270",
             "name": "ЮРО - Лаврова Яна",
             "address": "Ул. Крамского 1/14",
             "city": "Полтава",
@@ -5102,7 +5311,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "260",
+            "id": "271",
             "name": "ЮРО - Лихоманова Ирина",
             "address": "Ул. Опытная 5",
             "city": "Полтава",
@@ -5121,7 +5330,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "261",
+            "id": "272",
             "name": "ЮРО - Луговая Галина Ивановна",
             "address": "Ул. Сенная 4",
             "city": "Полтава",
@@ -5140,7 +5349,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "262",
+            "id": "273",
             "name": "ЮРО - Матвиенко Татьяна Борисовна",
             "address": "Ул. Н. Левицкого 24",
             "city": "Полтава",
@@ -5159,7 +5368,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "263",
+            "id": "274",
             "name": "ЮРО - Махно Елена Евгениевна",
             "address": "ул. Степная 20",
             "city": "С. Тахтаулово",
@@ -5178,7 +5387,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "264",
+            "id": "275",
             "name": "ЮРО - Можчиль Людмила Анатолиевна",
             "address": "Ул. Шевченка 113",
             "city": "Полтава",
@@ -5197,7 +5406,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "265",
+            "id": "276",
             "name": "ЮРО - Панченко Валентина Николаевна",
             "address": "Ул. Шевченко 73",
             "city": "Полтава",
@@ -5216,7 +5425,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "266",
+            "id": "277",
             "name": "ЮРО - Паржина Валентина Григорьевна",
             "address": "Ул. Артёма 13",
             "city": "Полтава",
@@ -5235,7 +5444,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "267",
+            "id": "278",
             "name": "ЮРО - Пикинер Татьяна Владимировна",
             "address": "Ул. Артёма 45",
             "city": "Полтава",
@@ -5254,7 +5463,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "268",
+            "id": "279",
             "name": "ЮРО - Пилипенко Вера Павловна",
             "address": "Ул. Зыгина 6",
             "city": "Полтава",
@@ -5273,7 +5482,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "269",
+            "id": "280",
             "name": "ЮРО - Полтавец Дарья Михайловна",
             "address": "Ул. Шевченка 115",
             "city": "Полтава",
@@ -5292,7 +5501,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "270",
+            "id": "281",
             "name": "ЮРО - Полтавец Татьяна Фёдоровна",
             "address": "Ул. Шевченка 115",
             "city": "Полтава",
@@ -5311,7 +5520,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "271",
+            "id": "282",
             "name": "ЮРО - Продащук Валентина Григорьевна",
             "address": "ул. Патлаивская 4",
             "city": "С. Вакуленцы,",
@@ -5330,7 +5539,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "272",
+            "id": "283",
             "name": "ЮРО - Прдащук Сергей Андреевич",
             "address": "ул. Патлаивская 4",
             "city": "С. Вакуленцы,",
@@ -5349,7 +5558,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "273",
+            "id": "284",
             "name": "ЮРО - Резвая Татьяна Николаевна",
             "address": "улица Энгельса 11",
             "city": "Полтава",
@@ -5368,7 +5577,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "274",
+            "id": "285",
             "name": "ЮРО - Решетникова Анна Михайловна",
             "address": "улица Н. Левицкого 24",
             "city": "Полтава",
@@ -5387,7 +5596,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "275",
+            "id": "286",
             "name": "ЮРО - Салиенко Зинаида Никитична",
             "address": "улица Кошевого 28",
             "city": "Полтава",
@@ -5406,7 +5615,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "276",
+            "id": "287",
             "name": "ЮРО - Салий Ольга Тимофеевна",
             "address": "улица Халтурина 21",
             "city": "Полтава",
@@ -5425,7 +5634,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "277",
+            "id": "288",
             "name": "ЮРО - Слинько Светлана Иосифовна",
             "address": "улица Уютная 17/19",
             "city": "Полтава",
@@ -5444,7 +5653,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "278",
+            "id": "289",
             "name": "ЮРО - Соловьяненко Валентина Василиевна",
             "address": "Ул. Артёма 13",
             "city": "Полтава",
@@ -5463,7 +5672,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "279",
+            "id": "290",
             "name": "ЮРО - Соловьяненко Елена Владимировна",
             "address": "Ул. Артёма 13",
             "city": "Полтава",
@@ -5482,7 +5691,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "280",
+            "id": "291",
             "name": "ЮРО - Стадннк Мария Леонтьевна",
             "address": "Уп. Пушкина 135, кв.18",
             "city": "Полтава",
@@ -5501,7 +5710,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "281",
+            "id": "292",
             "name": "ЮРО - Сулима Ольга Васильевна",
             "address": "пер. Радянский 15",
             "city": "село Супруновка",
@@ -5520,7 +5729,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "282",
+            "id": "293",
             "name": "ЮРО - Суцкевер Николай Владимирович",
             "address": "улица Шведская",
             "city": "Полтава",
@@ -5539,7 +5748,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "283",
+            "id": "294",
             "name": "ЮРО - Татарко Мария Михайловна",
             "address": "Ул. Октябрская 79",
             "city": "Полтава",
@@ -5558,7 +5767,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "284",
+            "id": "295",
             "name": "ЮРО - Токало Алексей Алексеевич",
             "address": "ул. Братская 11",
             "city": "С. Тахтаулово",
@@ -5577,7 +5786,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "285",
+            "id": "296",
             "name": "ЮРО - Токало Максим Алексеевич",
             "address": "ул. Братская 11",
             "city": "С. Тахтаулово",
@@ -5596,7 +5805,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "286",
+            "id": "297",
             "name": "ЮРО - Токало Оксана Леонидовна",
             "address": "ул. Братская 11",
             "city": "С. Тахтаулово",
@@ -5615,7 +5824,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "287",
+            "id": "298",
             "name": "ЮРО - Филимонов Дмитрий",
             "address": "ул. Первомайская 107",
             "city": "С. Тахтаулово",
@@ -5634,7 +5843,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "288",
+            "id": "299",
             "name": "ЮРО - Черкашина Алла Борисовна",
             "address": "Ул. Нижне-Фабриканская 15-1",
             "city": "Полтава",
@@ -5653,7 +5862,7 @@ var servants = [{
     {
         "type": "Feature",
         "properties": {
-            "id": "289",
+            "id": "300",
             "name": "ЮРО - Черкашин Сергей Викторович",
             "address": "Ул. Нижне-Фабриканская 15-1",
             "city": "Полтава",
@@ -6131,17 +6340,17 @@ var servants = [{
         "properties": {
             "id": "314",
             "name": "ВСТ -  Довганич Светлана",
-            "address": "улица Вавилова 2",
+            "address": "пер. Ломаный, 36",
             "city": "Полтава",
             "region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.562825",
-            "geometry/coordinates/1": "34.577091",
+            "geometry/coordinates/0": "49.5834566",
+            "geometry/coordinates/1": "34.5713613",
             "congregation": "Восточное",
             "marker-color": "yellow",
         },
         "geometry": {
-            "coordinates": [34.577091, 49.562825],
+            "coordinates": [34.5713613, 49.5834566],
             "type": "Point"
         }
     },
@@ -6163,8 +6372,7 @@ var servants = [{
             "coordinates": [34.580600, 49.594054],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "316",
@@ -6182,8 +6390,7 @@ var servants = [{
             "coordinates": [34.580551, 49.59413],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "317",
@@ -6201,8 +6408,7 @@ var servants = [{
             "coordinates": [34.5496444, 49.5977649],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "318",
@@ -6220,8 +6426,7 @@ var servants = [{
             "coordinates": [34.576217, 49.617133],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "319",
@@ -6239,8 +6444,7 @@ var servants = [{
             "coordinates": [34.57634, 49.617178],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "320",
@@ -6258,8 +6462,7 @@ var servants = [{
             "coordinates": [34.576308, 49.617074],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "321",
@@ -6277,8 +6480,7 @@ var servants = [{
             "coordinates": [34.576464, 49.617154],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "322",
@@ -6296,8 +6498,7 @@ var servants = [{
             "coordinates": [34.557275, 49.593761],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "323",
@@ -6315,8 +6516,7 @@ var servants = [{
             "coordinates": [34.571032, 49.602205],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "324",
@@ -6334,8 +6534,7 @@ var servants = [{
             "coordinates": [34.571174, 49.602252],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "325",
@@ -6353,8 +6552,7 @@ var servants = [{
             "coordinates": [34.582198, 49.581478],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "326",
@@ -6372,8 +6570,7 @@ var servants = [{
             "coordinates": [34.584467, 49.57633],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "327",
@@ -6391,8 +6588,7 @@ var servants = [{
             "coordinates": [34.584258, 49.57647],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "328",
@@ -6410,8 +6606,7 @@ var servants = [{
             "coordinates": [34.584333, 49.57639],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "329",
@@ -6429,8 +6624,7 @@ var servants = [{
             "coordinates": [34.553086, 49.597409],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "330",
@@ -6448,8 +6642,7 @@ var servants = [{
             "coordinates": [34.571716, 49.57921],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "331",
@@ -6467,8 +6660,7 @@ var servants = [{
             "coordinates": [34.60651, 49.596842],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "332",
@@ -6486,8 +6678,7 @@ var servants = [{
             "coordinates": [34.582434, 49.582685],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "333",
@@ -6505,8 +6696,7 @@ var servants = [{
             "coordinates": [34.58207, 49.576957],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "334",
@@ -6524,8 +6714,7 @@ var servants = [{
             "coordinates": [34.4358127, 49.5626608],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "335",
@@ -6543,8 +6732,7 @@ var servants = [{
             "coordinates": [34.4358127, 49.5626608],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "336",
@@ -6562,8 +6750,7 @@ var servants = [{
             "coordinates": [34.4461566, 49.5536665],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "337",
@@ -6581,8 +6768,7 @@ var servants = [{
             "coordinates": [34.4461566, 49.5536665],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "338",
@@ -6600,8 +6786,7 @@ var servants = [{
             "coordinates": [34.565628, 49.587512],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "339",
@@ -6619,8 +6804,7 @@ var servants = [{
             "coordinates": [34.565723, 49.587591],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "340",
@@ -6638,8 +6822,7 @@ var servants = [{
             "coordinates": [34.565885, 49.600997],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "341",
@@ -6657,8 +6840,7 @@ var servants = [{
             "coordinates": [34.565617, 49.600948],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "342",
@@ -6676,8 +6858,7 @@ var servants = [{
             "coordinates": [34.581640, 49.599331],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "343",
@@ -6695,8 +6876,7 @@ var servants = [{
             "coordinates": [34.553043, 49.597346],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "344",
@@ -6714,8 +6894,7 @@ var servants = [{
             "coordinates": [34.584628, 49.575537],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "345",
@@ -6733,8 +6912,7 @@ var servants = [{
             "coordinates": [34.568900, 49.601322],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "346",
@@ -6752,8 +6930,7 @@ var servants = [{
             "coordinates": [34.569045, 49.601404],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "347",
@@ -6771,8 +6948,7 @@ var servants = [{
             "coordinates": [34.569055, 49.601306],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "348",
@@ -6790,8 +6966,7 @@ var servants = [{
             "coordinates": [34.6233416, 49.5968926],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "349",
@@ -6809,8 +6984,7 @@ var servants = [{
             "coordinates": [34.6233416, 49.5968926],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "350",
@@ -6828,8 +7002,7 @@ var servants = [{
             "coordinates": [34.563616, 49.583262],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "351",
@@ -6847,8 +7020,7 @@ var servants = [{
             "coordinates": [34.571868, 49.578484],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "352",
@@ -6866,8 +7038,7 @@ var servants = [{
             "coordinates": [34.537523, 49.574282],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "353",
@@ -6885,8 +7056,7 @@ var servants = [{
             "coordinates": [34.554926, 49.587589],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "354",
@@ -6904,8 +7074,7 @@ var servants = [{
             "coordinates": [34.555178, 49.587516],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "355",
@@ -6923,8 +7092,7 @@ var servants = [{
             "coordinates": [34.555044, 49.587526],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "356",
@@ -6942,8 +7110,7 @@ var servants = [{
             "coordinates": [34.523318, 49.592899],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "357",
@@ -6961,8 +7128,7 @@ var servants = [{
             "coordinates": [34.523377, 49.592795],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "358",
@@ -6980,8 +7146,7 @@ var servants = [{
             "coordinates": [34.583732, 49.581037],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "359",
@@ -6999,8 +7164,7 @@ var servants = [{
             "coordinates": [34.5953495, 49.4594117],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "360",
@@ -7018,8 +7182,7 @@ var servants = [{
             "coordinates": [34.616611, 49.51529],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "361",
@@ -7037,8 +7200,7 @@ var servants = [{
             "coordinates": [34.6160728, 49.5153888],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "362",
@@ -7056,8 +7218,7 @@ var servants = [{
             "coordinates": [34.5927414, 49.4734929],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "363",
@@ -7075,8 +7236,7 @@ var servants = [{
             "coordinates": [34.598823, 49.469846],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "364",
@@ -7094,8 +7254,7 @@ var servants = [{
             "coordinates": [34.582649, 49.575896],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "365",
@@ -7113,8 +7272,7 @@ var servants = [{
             "coordinates": [34.572731, 49.579464],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "366",
@@ -7132,8 +7290,7 @@ var servants = [{
             "coordinates": [34.6953023, 49.6282468],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "367",
@@ -7151,8 +7308,7 @@ var servants = [{
             "coordinates": [34.695114, 49.628108],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "368",
@@ -7170,8 +7326,7 @@ var servants = [{
             "coordinates": [34.569662, 49.596039],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "369",
@@ -7189,8 +7344,7 @@ var servants = [{
             "coordinates": [34.557382, 49.593887],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "370",
@@ -7208,8 +7362,7 @@ var servants = [{
             "coordinates": [34.632457, 49.597527],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "371",
@@ -7227,8 +7380,7 @@ var servants = [{
             "coordinates": [34.556671, 49.600643],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "372",
@@ -7246,8 +7398,7 @@ var servants = [{
             "coordinates": [34.590680, 49.587260],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "373",
@@ -7265,8 +7416,7 @@ var servants = [{
             "coordinates": [34.572119, 49.579941],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "374",
@@ -7284,8 +7434,7 @@ var servants = [{
             "coordinates": [34.561615, 49.590743],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "375",
@@ -7303,8 +7452,7 @@ var servants = [{
             "coordinates": [34.559249, 49.598473],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "376",
@@ -7322,8 +7470,7 @@ var servants = [{
             "coordinates": [34.549384, 49.593348],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "377",
@@ -7341,8 +7488,7 @@ var servants = [{
             "coordinates": [34.574457, 49.608455],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "378",
@@ -7360,8 +7506,7 @@ var servants = [{
             "coordinates": [34.582171, 49.588395],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "379",
@@ -7379,8 +7524,7 @@ var servants = [{
             "coordinates": [34.56734, 49.59342],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "380",
@@ -7398,8 +7542,7 @@ var servants = [{
             "coordinates": [34.576874, 49.608005],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "381",
@@ -7417,8 +7560,7 @@ var servants = [{
             "coordinates": [34.563117, 49.63038],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "382",
@@ -7436,8 +7578,7 @@ var servants = [{
             "coordinates": [34.553837, 49.587307],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "383",
@@ -7455,8 +7596,7 @@ var servants = [{
             "coordinates": [34.544862, 49.59332],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "384",
@@ -7474,8 +7614,7 @@ var servants = [{
             "coordinates": [34.564163, 49.604345],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "385",
@@ -7493,8 +7632,7 @@ var servants = [{
             "coordinates": [34.564447, 49.604359],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "386",
@@ -7512,8 +7650,7 @@ var servants = [{
             "coordinates": [34.564313, 49.604487],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "387",
@@ -7531,8 +7668,7 @@ var servants = [{
             "coordinates": [34.576044, 49.562277],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "388",
@@ -7550,8 +7686,7 @@ var servants = [{
             "coordinates": [34.568699, 49.631432],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "389",
@@ -7569,8 +7704,7 @@ var servants = [{
             "coordinates": [34.573155, 49.610107],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "390",
@@ -7588,8 +7722,7 @@ var servants = [{
             "coordinates": [34.582543, 49.583924],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "391",
@@ -7607,8 +7740,7 @@ var servants = [{
             "coordinates": [34.582493, 49.583875],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "392",
@@ -7626,8 +7758,7 @@ var servants = [{
             "coordinates": [34.580530, 49.596685],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "393",
@@ -7645,8 +7776,7 @@ var servants = [{
             "coordinates": [34.702957, 49.605857],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "394",
@@ -7664,8 +7794,7 @@ var servants = [{
             "coordinates": [34.580704, 49.565464],
             "type": "Point"
         }
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "id": "395",
@@ -7683,242 +7812,13 @@ var servants = [{
             "coordinates": [34.584585, 49.576306],
             "type": "Point"
         }
-    }, //=========== Чутово группа ================
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "396",
-            "name": "БРА - Коровянская Ирина Ивановна",
-            "address": "ул. Лесная 50",
-            "city": "Чернякивка",
-            "region": "Полтавская Область",
-            "Index": "38820",
-            "geometry/coordinates/0": "49.774318",
-            "geometry/coordinates/1": "35.155243",
-            "congregation": "Браилки",
-            "marker-color": "blue",
-        },
-        "geometry": {
-            "coordinates": [35.155243, 49.774318],
-            "type": "Point"
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "397",
-            "name": "БРА - Быкова Елена Валериевна",
-            "address": "ул. Лесная 4",
-            "city": "с. Кочубеевка",
-            "region": "Полтавская Область",
-            "Index": "38822",
-            "geometry/coordinates/0": "49.752271",
-            "geometry/coordinates/1": "35.106533",
-            "congregation": "Браилки",
-            "marker-color": "blue",
-        },
-        "geometry": {
-            "coordinates": [35.106533, 49.752271],
-            "type": "Point"
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "398",
-            "name": "БРА - Звонова Людмила Георгиевна",
-            "address": "ул. Европейская 223",
-            "city": "Полтава",
-            "region": "Полтавская Область",
-            "Index": "36000",
-            "geometry/coordinates/0": "49.555148",
-            "geometry/coordinates/1": "34.520877",
-            "congregation": "Браилки",
-            "marker-color": "blue",
-        },
-        "geometry": {
-            "coordinates": [34.520877, 49.555148],
-            "type": "Point"
-        },
-
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "405",
-            "name": "БРА - Воробьева Екатерина Владимировна",
-            "address": "ул. Комсомольская",
-            "city": "Рябкивка",
-            "region": "Полтавская Область",
-            "Index": "38812",
-            "geometry/coordinates/0": "49.829162",
-            "geometry/coordinates/1": "35.053209",
-            "congregation": "Браилки",
-            "marker-color": "blue",
-        },
-        "geometry": {
-            "coordinates": [35.053209, 49.829162],
-            "type": "Point"
-        }
-    }, //=============== Скороходово группа  ================
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "399",
-            "name": "БРА - Паскару Юлия Вячеславовна",
-            "address": "ул. Софиевская 85/8",
-            "city": "Скороходово",
-            "region": "Полтавская Область",
-            "Index": "38813",
-            "geometry/coordinates/0": "49.768377",
-            "geometry/coordinates/1": "35.077345",
-            "congregation": "Браилки",
-            "marker-color": "blue",
-        },
-        "geometry": {
-            "coordinates": [35.077345, 49.768377],
-            "type": "Point"
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "400",
-            "name": "БРА - Паскару Вячеслав Александрович",
-            "address": "ул. Софиевская 85/8",
-            "city": "Скороходово",
-            "region": "Полтавская Область",
-            "Index": "38813",
-            "geometry/coordinates/0": "49.768432",
-            "geometry/coordinates/1": "35.07727",
-            "congregation": "Браилки",
-            "marker-color": "blue",
-        },
-        "geometry": {
-            "coordinates": [35.07727, 49.768432],
-            "type": "Point"
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "401",
-            "name": "БРА - Шкляр Надежда Ивановна",
-            "address": "ул.Софиевская 31в/42",
-            "city": "Скороходово",
-            "region": "Полтавская Область",
-            "Index": "38813",
-            "geometry/coordinates/0": "49.773965",
-            "geometry/coordinates/1": "35.076315",
-            "congregation": "Браилки",
-            "marker-color": "blue",
-        },
-        "geometry": {
-            "coordinates": [35.076315, 49.773965],
-            "type": "Point"
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "402",
-            "name": "БРА - Порпа Андрей",
-            "address": "ул. Софиевская 53/1",
-            "city": "Скороходово",
-            "region": "Полтавская Область",
-            "Index": "38813",
-            "geometry/coordinates/0": "49.771239",
-            "geometry/coordinates/1": "35.076572",
-            "congregation": "Браилки",
-            "marker-color": "blue",
-        },
-        "geometry": {
-            "coordinates": [35.076572, 49.771239],
-            "type": "Point"
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "403",
-            "name": "БРА - Белокур Лидия Ивановна",
-            "address": "ул. Софиевская 20",
-            "city": "Скороходово",
-            "region": "Полтавская Область",
-            "Index": "38813",
-            "geometry/coordinates/0": "49.772292",
-            "geometry/coordinates/1": "35.073273",
-            "congregation": "Браилки",
-            "marker-color": "blue",
-        },
-        "geometry": {
-            "coordinates": [35.073273, 49.772292],
-            "type": "Point"
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "404",
-            "name": "БРА - Покотила Зинаида Васильевна",
-            "address": "ул. Софиевская 18",
-            "city": "Скороходово",
-            "region": "Полтавская Область",
-            "Index": "38813",
-            "geometry/coordinates/0": "49.772396",
-            "geometry/coordinates/1": "35.073954",
-            "congregation": "Браилки",
-            "marker-color": "blue",
-        },
-        "geometry": {
-            "coordinates": [35.073954, 49.772396],
-            "type": "Point"
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "405",
-            "name": "БРА - Макаренко Клара Валериевна",
-            "address": "ул. Максименко 15",
-            "city": "Скороходово",
-            "region": "Полтавская Область",
-            "Index": "38813",
-            "geometry/coordinates/0": "49.771904",
-            "geometry/coordinates/1": "35.05814",
-            "congregation": "Браилки",
-            "marker-color": "blue",
-        },
-        "geometry": {
-            "coordinates": [35.05814, 49.771904],
-            "type": "Point"
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "406",
-            "name": "БРА - Ефремова Валентина Федоровна",
-            "address": "ул. Боровика 3",
-            "city": "Степановка",
-            "region": "Полтавская Область",
-            "Index": "38813",
-            "geometry/coordinates/0": "49.800803",
-            "geometry/coordinates/1": "35.078455",
-            "congregation": "Браилки",
-            "marker-color": "blue",
-        },
-        "geometry": {
-            "coordinates": [35.078455, 49.800803],
-            "type": "Point"
-        }
     }
 
 ];
 
 
 var wcp = {
-    "type":"FeatureCollection",
+    "type": "FeatureCollection",
     "features": servants
 }
 
