@@ -6264,17 +6264,17 @@ var servants = [{
         "properties": {
             "id": "321",
             "name": "ВСТ -  Демченко Оксана",
-            "address": "улица Великорогизнянська 10",
-            "city": "Полтава",
+            "address": "переулок Балковий, 10а",
+            "city": "Гожулы",
             "region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.587893",
-            "geometry/coordinates/1": "34.577393",
+            "geometry/coordinates/0": "49.609755",
+            "geometry/coordinates/1": "34.446176",
             "congregation": "Восточное",
             "marker-color": "yellow",
         },
         "geometry": {
-            "coordinates": [34.577393, 49.587893],
+            "coordinates": [34.446176, 49.609755],
             "type": "Point"
         }
     },
