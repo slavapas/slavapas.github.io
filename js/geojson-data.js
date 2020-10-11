@@ -6741,13 +6741,13 @@ var servants = [{
             "city": "Село Яковцы",
             "region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.5536665",
-            "geometry/coordinates/1": "34.4461566",
+            "geometry/coordinates/0": "49.6225801",
+            "geometry/coordinates/1": "34.5606741",
             "congregation": "Восточное",
             "marker-color": "yellow",
         },
         "geometry": {
-            "coordinates": [34.4461566, 49.5536665],
+            "coordinates": [34.5606741, 49.6225801],
             "type": "Point"
         }
     }, {
@@ -6759,13 +6759,13 @@ var servants = [{
             "city": "Село Яковцы",
             "region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.5536665",
-            "geometry/coordinates/1": "34.4461566",
+            "geometry/coordinates/0": "49.6225801",
+            "geometry/coordinates/1": "34.5606741",
             "congregation": "Восточное",
             "marker-color": "yellow",
         },
         "geometry": {
-            "coordinates": [34.4461566, 49.5536665],
+            "coordinates": [34.5606741, 49.6225801],
             "type": "Point"
         }
     }, {
