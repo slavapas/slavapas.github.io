@@ -677,14 +677,14 @@ var servants = [{
             "address": "ул. Павленковская 8, кв 43",
             "city": "Полтава",
             "region": "Полтавская Область",
-            "geometry/coordinates/0": "49.5996542",
-            "geometry/coordinates/1": "34.5301961",
+            "geometry/coordinates/0": "49.5994447",
+            "geometry/coordinates/1": "34.5322636",
             "tel": "06388839962",
             "congregation": "Браилки",
             "marker-color": "blue",
         },
         "geometry": {
-            "coordinates": [34.5301961, 49.5996542],
+            "coordinates": [34.5322636, 49.5994447],
             "type": "Point"
         }
     },
