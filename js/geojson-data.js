@@ -6326,7 +6326,7 @@ var servants = [{
             "region": "Полтавская Область",
             "Index": "-",
             "geometry/coordinates/0": "49.5977649",
-            "geometry/coordinates/1": "34.5496444",
+            "geometry/coordinates/1": "34.5496480",
             "congregation": "Восточное",
             "marker-color": "yellow",
         },
