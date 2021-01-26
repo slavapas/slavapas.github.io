@@ -26,8 +26,9 @@ var OSMColored = L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x
 
 //add choose base Layer
 var baseMaps = {
-    COLOR: OSMColored,
-    GRAY: osmGray
+    GRAY: osmGray,
+    COLOR: OSMColored
+ 
 };
 
 L.control.layers(baseMaps, {}).addTo(map);
@@ -272,7 +273,7 @@ wcp.features.map((feature, index) => {
 
 
 
-        map.flyTo([theLat, theLong], 17);
+        map.flyTo([theLat, theLong], 14);
 
 
         // ----------------------------------------------------------------
