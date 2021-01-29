@@ -658,14 +658,14 @@ var servants = [{
             "address": "ул. Краснодонская 19/2 ",
             "city": "с. Веселовка, Диканского р-на",
             "region": "Полтавская Область",
-            "geometry/coordinates/0": "49.73541",
-            "geometry/coordinates/1": "34.49286",
+            "geometry/coordinates/0": "49.603313140910956", 
+            "geometry/coordinates/1": "34.478432000822025",
             "tel": "0508885629",
             "congregation": "Браилки",
             "marker-color": "blue",
         },
         "geometry": {
-            "coordinates": [34.49286, 49.73541],
+            "coordinates": [34.478432000822025, 49.603313140910956],
             "type": "Point"
         }
     }, //28
